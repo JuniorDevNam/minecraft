@@ -1,0 +1,20 @@
+portals:
+  creative_flat:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Nam1234231
+    location: -1.0,-60.0,0.0:3.0,-56.0,0.0
+    world: flatroom
+    destination: p:spawn
+  spawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Nam1234231
+    location: 345.0,64.0,-48.0:345.0,65.0,-48.0
+    world: world

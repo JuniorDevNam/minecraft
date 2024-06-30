@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.96.45.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663254313654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663254361141
+  login: 1663253996866
+money: '59619494.006666666346609'
+last-account-name: taolaminh
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 58.5
+  y: 66.0999984741211
+  z: 171.5
+  yaw: 0.0
+  pitch: 0.0
+nickname: MO
+lastlocation:
+  world: 7ec283ff-b928-46e9-b242-4dd1165f6677
+  world-name: world_nether
+  x: 34.5
+  y: 42.0
+  z: 49.5
+  yaw: 198.90603637695312
+  pitch: 12.600411415100098

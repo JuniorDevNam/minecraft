@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: IRON_CHESTPLATE
+  displayname: '&1&lArmor'
+slot: 5

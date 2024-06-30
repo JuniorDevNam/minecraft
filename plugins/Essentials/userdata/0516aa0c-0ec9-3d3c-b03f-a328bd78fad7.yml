@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.226.2.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670867211348
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670867293558
+  login: 1670867025708
+money: '0'
+last-account-name: Chulie
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 3799.865588148917
+  y: 81.5
+  z: -768.1921286681038
+  yaw: 174.25059509277344
+  pitch: 36.841217041015625
+logoutlocation:
+  world: 7ec283ff-b928-46e9-b242-4dd1165f6677
+  world-name: world_nether
+  x: 520.0550167550114
+  y: 216.0
+  z: -149.61733576254764
+  yaw: 173.75650024414062
+  pitch: 14.830841064453125

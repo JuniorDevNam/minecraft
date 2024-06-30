@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.96.45.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719227219626
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719228728196
+  login: 1719227070405
+money: '0'
+last-account-name: HwngLead
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 4013.5806792954622
+  y: 94.0
+  z: -921.5609387049752
+  yaw: 91.12169647216797
+  pitch: 42.1498908996582
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 4013.5
+  y: 94.0
+  z: -921.5
+  yaw: 91.57154083251953
+  pitch: 28.46792221069336

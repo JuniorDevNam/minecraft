@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.186.70.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715613125663
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715615308192
+  login: 1715614534341
+money: '0'
+last-account-name: minhhhh123
+lastlocation:
+  world: 53e72057-794a-4f54-b2a7-8720cefe0472
+  world-name: flatroom
+  x: -71.49314359602099
+  y: -330.36146591568695
+  z: -13.699999988079071
+  yaw: 9.2059326171875
+  pitch: -81.39015197753906
+logoutlocation:
+  world: 53e72057-794a-4f54-b2a7-8720cefe0472
+  world-name: flatroom
+  x: -323.17162291166926
+  y: -51.0
+  z: 193.56582282427954
+  yaw: -51.6004638671875
+  pitch: 23.440706253051758

@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: GOLDEN_HELMET
+  displayname: Armor
+slot: 4

@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717951164298
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719715874083
+  login: 1719715176534
+money: '98996918289.8999999998986201'
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 334.011167404964
+  y: 12.0
+  z: 583.1484864008294
+  yaw: 46.43937301635742
+  pitch: 23.54994773864746
+last-account-name: Nam1234231
+nickname: lamperlore
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 322.18005013857214
+  y: 63.0
+  z: 484.88453240060585
+  yaw: -59.99951171875
+  pitch: 16.081161499023438
+homes:
+  home:
+    world: 6000fa1e-792c-48f6-9092-83aa876e0187
+    world-name: world
+    x: 336.35762120874034
+    y: 10.0
+    z: 532.5224904868192
+    yaw: -170.2214813232422
+    pitch: 6.450015544891357

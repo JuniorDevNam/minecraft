@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 1.52.218.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687953791100
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687953912420
+  login: 1687953323268
+money: '0'
+last-account-name: CuanCoConC
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 2894.300000011921
+  y: 67.0
+  z: 2713.1853168875505
+  yaw: 114.9053955078125
+  pitch: 18.971982955932617
+logoutlocation:
+  world: 7ec283ff-b928-46e9-b242-4dd1165f6677
+  world-name: world_nether
+  x: 515.6817276003965
+  y: 222.0
+  z: -151.98750001192093
+  yaw: 5.675768852233887
+  pitch: 38.527626037597656

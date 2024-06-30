@@ -1,0 +1,370 @@
+backup_version: 1
+player_data:
+  8a23f48c-7b83-3344-8d9e-c534020c1122:
+    farming:
+      level: 3
+      xp: 331.0
+    foraging:
+      level: 7
+      xp: 3655.0
+    mining:
+      level: 8
+      xp: 2803.0
+    fishing:
+      level: 14
+      xp: 6776.0
+    excavation:
+      level: 8
+      xp: 1382.0
+    archery:
+      level: 1
+      xp: 58.0
+    defense:
+      level: 13
+      xp: 6764.0
+    fighting:
+      level: 8
+      xp: 3759.0
+    endurance:
+      level: 12
+      xp: 4208.0
+    agility:
+      level: 7
+      xp: 1868.0
+    alchemy:
+      level: 1
+      xp: 0.0
+    enchanting:
+      level: 4
+      xp: 339.0
+    sorcery:
+      level: 2
+      xp: 150.0
+    healing:
+      level: 5
+      xp: 391.0
+    forging:
+      level: 6
+      xp: 2041.0
+  682d3195-0e7c-3caa-82de-df46a6bf0562:
+    farming:
+      level: 6
+      xp: 1352.0
+    foraging:
+      level: 5
+      xp: 1098.0
+    mining:
+      level: 7
+      xp: 3287.0
+    fishing:
+      level: 11
+      xp: 9569.0
+    excavation:
+      level: 4
+      xp: 659.0
+    archery:
+      level: 4
+      xp: 959.0
+    defense:
+      level: 12
+      xp: 10311.0
+    fighting:
+      level: 12
+      xp: 2179.0
+    endurance:
+      level: 9
+      xp: 5520.0
+    agility:
+      level: 7
+      xp: 62.0
+    alchemy:
+      level: 1
+      xp: 25.0
+    enchanting:
+      level: 4
+      xp: 541.0
+    sorcery:
+      level: 5
+      xp: 200.0
+    healing:
+      level: 9
+      xp: 850.0
+    forging:
+      level: 9
+      xp: 6120.0
+  317feebd-ed45-3981-b68d-c0b05c5779f6:
+    farming:
+      level: 1
+      xp: 5.0
+    foraging:
+      level: 1
+      xp: 44.0
+    mining:
+      level: 2
+      xp: 171.0
+    fishing:
+      level: 1
+      xp: 0.0
+    excavation:
+      level: 2
+      xp: 60.0
+    archery:
+      level: 1
+      xp: 0.0
+    defense:
+      level: 11
+      xp: 7520.0
+    fighting:
+      level: 3
+      xp: 160.0
+    endurance:
+      level: 6
+      xp: 1050.0
+    agility:
+      level: 2
+      xp: 172.0
+    alchemy:
+      level: 1
+      xp: 0.0
+    enchanting:
+      level: 8
+      xp: 4494.0
+    sorcery:
+      level: 1
+      xp: 0.0
+    healing:
+      level: 4
+      xp: 418.0
+    forging:
+      level: 15
+      xp: 5812.0
+  6a43e6d8-bba7-3cfa-8dac-98afe51e7a1d:
+    farming:
+      level: 11
+      xp: 4316.0
+    foraging:
+      level: 1
+      xp: 15.0
+    mining:
+      level: 6
+      xp: 2417.0
+    fishing:
+      level: 10
+      xp: 1703.0
+    excavation:
+      level: 8
+      xp: 241.0
+    archery:
+      level: 5
+      xp: 668.0
+    defense:
+      level: 14
+      xp: 15155.0
+    fighting:
+      level: 15
+      xp: 7450.0
+    endurance:
+      level: 12
+      xp: 11478.0
+    agility:
+      level: 7
+      xp: 2139.0
+    alchemy:
+      level: 6
+      xp: 127.0
+    enchanting:
+      level: 2
+      xp: 4.0
+    sorcery:
+      level: 5
+      xp: 1185.0
+    healing:
+      level: 10
+      xp: 4695.0
+    forging:
+      level: 8
+      xp: 4486.0
+  a02ff89c-dfc4-3e4b-a0aa-712f64795178:
+    farming:
+      level: 5
+      xp: 956.0
+    foraging:
+      level: 1
+      xp: 0.0
+    mining:
+      level: 2
+      xp: 116.0
+    fishing:
+      level: 6
+      xp: 197.0
+    excavation:
+      level: 1
+      xp: 20.0
+    archery:
+      level: 1
+      xp: 31.0
+    defense:
+      level: 9
+      xp: 5711.0
+    fighting:
+      level: 10
+      xp: 6383.0
+    endurance:
+      level: 7
+      xp: 2375.0
+    agility:
+      level: 4
+      xp: 619.0
+    alchemy:
+      level: 1
+      xp: 0.0
+    enchanting:
+      level: 1
+      xp: 8.0
+    sorcery:
+      level: 3
+      xp: 140.0
+    healing:
+      level: 4
+      xp: 231.0
+    forging:
+      level: 17
+      xp: 2496.0
+  6dbad5c0-3441-35e0-9a60-7d437b94da83:
+    farming:
+      level: 6
+      xp: 288.0
+    foraging:
+      level: 3
+      xp: 82.0
+    mining:
+      level: 10
+      xp: 5101.0
+    fishing:
+      level: 3
+      xp: 10.0
+    excavation:
+      level: 3
+      xp: 384.0
+    archery:
+      level: 3
+      xp: 74.0
+    defense:
+      level: 11
+      xp: 6851.0
+    fighting:
+      level: 8
+      xp: 26.0
+    endurance:
+      level: 8
+      xp: 793.0
+    agility:
+      level: 6
+      xp: 1747.0
+    alchemy:
+      level: 1
+      xp: 0.0
+    enchanting:
+      level: 4
+      xp: 318.0
+    sorcery:
+      level: 1
+      xp: 0.0
+    healing:
+      level: 3
+      xp: 330.0
+    forging:
+      level: 5
+      xp: 330.0
+  6b9ea920-d077-3e6f-ab52-3fa07f6b63a7:
+    farming:
+      level: 7
+      xp: 900.0
+    foraging:
+      level: 3
+      xp: 45.0
+    mining:
+      level: 5
+      xp: 1234.0
+    fishing:
+      level: 6
+      xp: 96.0
+    excavation:
+      level: 2
+      xp: 162.0
+    archery:
+      level: 3
+      xp: 328.0
+    defense:
+      level: 16
+      xp: 17130.0
+    fighting:
+      level: 6
+      xp: 1951.0
+    endurance:
+      level: 11
+      xp: 5376.0
+    agility:
+      level: 6
+      xp: 2549.0
+    alchemy:
+      level: 1
+      xp: 0.0
+    enchanting:
+      level: 3
+      xp: 162.0
+    sorcery:
+      level: 1
+      xp: 0.0
+    healing:
+      level: 7
+      xp: 1031.0
+    forging:
+      level: 13
+      xp: 11744.0
+  962c3a59-6dc2-3f02-b5c7-fa2fdb690650:
+    farming:
+      level: 11
+      xp: 5003.0
+    foraging:
+      level: 10
+      xp: 4594.0
+    mining:
+      level: 14
+      xp: 13829.0
+    fishing:
+      level: 27
+      xp: 66136.0
+    excavation:
+      level: 8
+      xp: 3035.0
+    archery:
+      level: 8
+      xp: 2082.0
+    defense:
+      level: 26
+      xp: 57243.0
+    fighting:
+      level: 21
+      xp: 35686.0
+    endurance:
+      level: 18
+      xp: 5436.0
+    agility:
+      level: 12
+      xp: 7683.0
+    alchemy:
+      level: 5
+      xp: 1525.0
+    enchanting:
+      level: 6
+      xp: 1164.0
+    sorcery:
+      level: 8
+      xp: 3274.0
+    healing:
+      level: 19
+      xp: 13508.0
+    forging:
+      level: 15
+      xp: 3714.0

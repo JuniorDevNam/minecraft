@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 222.254.53.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1710066748434
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710066982191
+  login: 1710065644431
+money: '19314072.0599999940016366'
+last-account-name: Minhhhh123
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 324.46635683173764
+  y: 10.0
+  z: 577.4343670576097
+  yaw: -130.97817993164062
+  pitch: 90.0
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 3032.5
+  y: 65.0
+  z: 3020.5
+  yaw: -4.9415598368796054E-6
+  pitch: 0.0
+homes:
+  home:
+    world: 6000fa1e-792c-48f6-9092-83aa876e0187
+    world-name: world
+    x: -198.4228975095048
+    y: 66.0
+    z: 605.5858372494156
+    yaw: -180.2999267578125
+    pitch: 10.199943542480469
+past-usernames:
+- minhhhh123

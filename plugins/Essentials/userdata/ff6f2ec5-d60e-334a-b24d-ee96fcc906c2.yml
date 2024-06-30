@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.177.8.185
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669901522205
+  login: 1669901483891
+money: '0'
+last-account-name: YunaNgoo
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 3081.997701831716
+  y: 64.0
+  z: 3023.103835908273
+  yaw: -93.1500473022461
+  pitch: 18.90000343322754
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 3014.9529340835065
+  y: 64.0
+  z: 2948.0583675479547
+  yaw: -49.349952697753906
+  pitch: 19.50005340576172

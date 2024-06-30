@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719731940926
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719731968812
+  login: 1719731873442
+money: '1702.64'
+last-account-name: Tuanxxx7
+logoutlocation:
+  world: 7ec283ff-b928-46e9-b242-4dd1165f6677
+  world-name: world_nether
+  x: 513.5448477717266
+  y: 128.0
+  z: -156.15821939737756
+  yaw: -130.8935546875
+  pitch: 38.8309211730957
+nickname: Tuan
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 4096.172682921465
+  y: 156.0
+  z: -853.2864673050752
+  yaw: 48.60841751098633
+  pitch: 19.34971046447754
+homes:
+  home:
+    world: 6000fa1e-792c-48f6-9092-83aa876e0187
+    world-name: world
+    x: 3071.649787293821
+    y: 64.0
+    z: 3003.780790165342
+    yaw: 172.07969665527344
+    pitch: 4.474483013153076

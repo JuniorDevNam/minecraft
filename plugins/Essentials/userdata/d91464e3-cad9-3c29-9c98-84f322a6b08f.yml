@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.226.2.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670074124423
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670074132787
+  login: 1670072320794
+money: '0'
+last-account-name: hita_YT
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 202.98142574021043
+  y: 65.67010785975914
+  z: -399.0230448407649
+  yaw: -74.54922485351562
+  pitch: 29.099998474121094
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 3067.7576635493683
+  y: 76.0
+  z: 2990.300000011921
+  yaw: -151.50465393066406
+  pitch: 43.650054931640625
