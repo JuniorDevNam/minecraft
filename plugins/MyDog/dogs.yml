@@ -82,7 +82,7 @@ dd1d8e1e-bc96-41b9-877d-e8da16675d31:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 1
   Name: Alpha
-  NameChatColor: WHITE
+  NameChatColor: AQUA
   LastSeen:
     World: world
     X: 3039.3866867345173
@@ -98,7 +98,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 2
   Name: Beta
-  NameChatColor: DARK_GRAY
+  NameChatColor: RED
   LastSeen:
     World: world
     X: 3041.755786888406
@@ -114,7 +114,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 3
   Name: Gamma
-  NameChatColor: GRAY
+  NameChatColor: GREEN
   LastSeen:
     World: world
     X: 3041.0067596007175
@@ -130,7 +130,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 4
   Name: Delta
-  NameChatColor: YELLOW
+  NameChatColor: DARK_BLUE
   LastSeen:
     World: world
     X: 3040.161893193232

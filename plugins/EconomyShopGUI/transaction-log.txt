@@ -3194,3 +3194,21 @@
 [2024-06-30 14:22:25] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
 [2024-06-30 14:23:27] - gladios1234 bought 16 x Green Wool(Blocks.page6.items.228) for $470.40 with the buy screen.
 [2024-06-30 14:26:17] - ~phan2 sold 4x Rail(Redstone.page1.items.35), 24x Emerald(Ores.page1.items.11), 3x Powered Rail(Redstone.page1.items.34), 34x Sugar Cane(Farming.page1.items.25), 1x Totem Of Undying(Miscellaneous.page1.items.36) for $959.46 with the sell gui.
+[2024-06-30 20:51:33] - ~phan2 sold 25x Melon(Farming.page1.items.16), 28x Pumpkin Seeds(Farming.page1.items.23), 69x Dirt(Blocks.page3.items.102), 25x Melon Seeds(Farming.page1.items.17), 23x Pumpkin(Farming.page1.items.22), 1x Oak Slab(Blocks.page5.items.208) for $167 with the sell gui.
+[2024-06-30 21:03:14] - gladios1234 bought 16 x Dirt(Blocks.page3.items.102) for $48 with the buy screen.
+[2024-06-30 21:08:50] - ~phan2 sold 18x Oak Planks(Blocks.page5.items.207), 4x Oak Slab(Blocks.page5.items.208) for $3.82 with the sell gui.
+[2024-06-30 21:11:01] - gladios1234 bought 32 x Dirt(Blocks.page3.items.102) for $96 with the buy screen.
+[2024-06-30 21:21:01] - gladios1234 bought 16 x Melon Seeds(Farming.page1.items.17) for $48 with the buy screen.
+[2024-06-30 21:21:25] - gladios1234 bought 16 x Pumpkin Seeds(Farming.page1.items.23) for $19.04 with the buy screen.
+[2024-07-01 00:05:07] - Nam1234231 bought 64 x Hopper(Redstone.page1.items.5) for $7,471.36 with the buy stacks screen.
+[2024-07-01 00:05:08] - Nam1234231 bought 64 x Hopper(Redstone.page1.items.5) for $7,471.36 with the buy stacks screen.
+[2024-07-01 00:11:48] - ~lamperlore sold 250x Feather(Mobs.page1.items.6), 18x Egg(Farming.page1.items.13) for $397.50 with the sell gui.
+[2024-07-01 00:12:18] - ~lamperlore sold 169x Feather(Mobs.page1.items.6), 36x Melon(Farming.page1.items.16), 32x Egg(Farming.page1.items.13), 7x Cooked Beef(Food.page1.items.11), 139x Pumpkin(Farming.page1.items.22) for $563.63 with the sell gui.
+[2024-07-01 00:13:00] - Nam1234231 sold 640 x Cooked Beef(Food.page1.items.11) for $1,011.20 with the sell all command.
+[2024-07-01 00:13:10] - Nam1234231 sold 640 x Cooked Beef(Food.page1.items.11) for $1,011.20 with the sell all command.
+[2024-07-01 00:13:13] - Nam1234231 sold 184 x Cooked Beef(Food.page1.items.11) for $290.72 with the sell all command.
+[2024-07-01 00:15:00] - Nam1234231 sold 7 x Cooked Beef(Food.page1.items.11) for $11.06 with the sell all command.
+[2024-07-01 00:16:19] - Nam1234231 bought 64 x Glowstone(Blocks.page1.items.14) for $1,881.60 with the buy stacks screen.
+[2024-07-01 00:19:31] - ~lamperlore sold 2x Granite(Blocks.page3.items.115), 8x Cooked Chicken(Food.page1.items.12) for $13 with the sell gui.
+[2024-07-01 00:30:10] - Nam1234231 bought 64 x Cactus(Farming.page1.items.7) for $6.40 with the buy stacks screen.
+[2024-07-01 00:48:04] - ~lamperlore sold 4x Iron Ingot(Ores.page1.items.16), 7x Sculk Catalyst(Miscellaneous.page3.items.4), 3x Deepslate(Blocks.page3.items.92) for $1,771.54 with the sell gui.
