@@ -567,6 +567,7 @@
       "rotten_flesh": "2024-06-05 00:24:38 +0700",
       "cooked_mutton": "2022-12-01 21:36:28 +0700",
       "glow_berries": "2022-11-29 12:33:54 +0700",
+      "cooked_beef": "2024-07-01 20:42:05 +0700",
       "baked_potato": "2023-12-25 00:10:33 +0700",
       "tropical_fish": "2024-06-21 23:31:52 +0700",
       "golden_carrot": "2022-11-24 11:23:23 +0700",
@@ -6527,6 +6528,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-06-30 12:53:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-07-01 23:38:37 +0700"
     },
     "done": true
   },

@@ -3272,3 +3272,112 @@
 [2024-07-01 10:50:52] - Tuanxxx7 bought 1 x Arrow(Mobs.page1.items.1) for $2.21 with the buy screen.
 [2024-07-01 10:59:20] - Tuanxxx7 bought 16 x Glass(Blocks.page3.items.112) for $100.80 with the buy screen.
 [2024-07-01 11:00:27] - Tuanxxx7 bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-07-01 19:13:11] - ~phan2 sold 5x Oak Slab(Blocks.page5.items.208), 18x Oak Planks(Blocks.page5.items.207) for $3.92 with the sell gui.
+[2024-07-01 19:28:13] - ~phan2 sold 19x Pumpkin Seeds(Farming.page1.items.23), 12x Melon Seeds(Farming.page1.items.17) for $14.70 with the sell gui.
+[2024-07-01 19:28:42] - gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[2024-07-01 19:28:42] - gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[2024-07-01 19:28:43] - gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[2024-07-01 19:34:24] - ~phan2 sold 4x Pumpkin Seeds(Farming.page1.items.23), 1x Melon Seeds(Farming.page1.items.17) for $1.95 with the sell gui.
+[2024-07-01 19:34:34] - gladios1234 bought 10 x Torchflower Seeds(Farming.page1.items.26) for $205 with the buy screen.
+[2024-07-01 19:34:39] - gladios1234 bought 10 x Pitcher Pod(Farming.page1.items.20) for $205 with the buy screen.
+[2024-07-01 19:35:37] - gladios1234 bought 16 x Light(Miscellaneous.page3.items.7) for $1,600 with the buy screen.
+[2024-07-01 19:36:11] - gladios1234 bought 17 x Torchflower Seeds(Farming.page1.items.26) for $348.50 with the buy screen.
+[2024-07-01 19:36:14] - gladios1234 bought 17 x Pitcher Pod(Farming.page1.items.20) for $348.50 with the buy screen.
+[2024-07-01 19:37:16] - ~phan2 sold 6x Pitcher Pod(Farming.page1.items.20), 6x Torchflower Seeds(Farming.page1.items.26) for $61.56 with the sell gui.
+[2024-07-01 19:49:05] - gladios1234 bought 4 x Glow Ink Sac(Miscellaneous.page1.items.12) for $22 with the buy screen.
+[2024-07-01 19:49:25] - gladios1234 bought 1 x Glow Ink Sac(Miscellaneous.page1.items.12) for $5.50 with the buy screen.
+[2024-07-01 19:50:34] - gladios1234 bought 1 x Glow Ink Sac(Miscellaneous.page1.items.12) for $5.50 with the buy screen.
+[2024-07-01 19:50:34] - gladios1234 bought 1 x Glow Ink Sac(Miscellaneous.page1.items.12) for $5.50 with the buy screen.
+[2024-07-01 19:50:35] - gladios1234 bought 1 x Glow Ink Sac(Miscellaneous.page1.items.12) for $5.50 with the buy screen.
+[2024-07-01 19:52:56] - gladios1234 bought 12 x Barrel(Workstations.page1.items.1) for $65.40 with the buy screen.
+[2024-07-01 19:55:02] - gladios1234 bought 1 x Chiseled Bookshelf(Blocks.page1.items.39) for $8.77 with the buy screen.
+[2024-07-01 19:56:11] - gladios1234 bought 16 x Blue Wool(Blocks.page5.items.224) for $470.40 with the buy screen.
+[2024-07-01 19:56:16] - gladios1234 bought 16 x Light Blue Wool(Blocks.page6.items.229) for $470.40 with the buy screen.
+[2024-07-01 20:02:31] - ~phan2 sold 31x Dirt(Blocks.page3.items.102) for $23.25 with the sell gui.
+[2024-07-01 20:08:29] - ~phan2 sold 3x Enchanted Golden Apple(Food.page1.items.23) for $30,000 with the sell gui.
+[2024-07-01 20:09:47] - ~phan2 sold 11x White Wool(Blocks.page6.items.237) for $80.85 with the sell gui.
+[2024-07-01 20:10:40] - ~phan2 sold 26x Spruce Log(Blocks.page5.items.211), 10x Spruce Stairs(Blocks.page5.items.214), 21x Dark Oak Planks(Blocks.page5.items.186), 17x Dark Oak Stairs(Blocks.page5.items.188), 148x Dark Oak Log(Blocks.page5.items.185), 9x Dark Oak Slab(Blocks.page5.items.187) for $143.22 with the sell gui.
+[2024-07-01 20:11:13] - ~phan2 sold 71x Rotten Flesh(Mobs.page1.items.15), 1x Gold Ingot(Ores.page1.items.14) for $96.63 with the sell gui.
+[2024-07-01 20:11:21] - ~phan2 sold 6x Gold Ingot(Ores.page1.items.14) for $47.28 with the sell gui.
+[2024-07-01 20:11:40] - ~phan2 sold 1x Iron Ingot(Ores.page1.items.16) for $5.25 with the sell gui.
+[2024-07-01 20:12:31] - ~phan2 sold 1x Iron Ingot(Ores.page1.items.16) for $5.25 with the sell gui.
+[2024-07-01 20:12:48] - ~phan2 sold 1x Iron Block(Ores.page1.items.15) for $49.62 with the sell gui.
+[2024-07-01 20:13:22] - ~phan2 sold 2x Iron Ingot(Ores.page1.items.16), 255x Iron Block(Ores.page1.items.15) for $12,663.59 with the sell gui.
+[2024-07-01 20:39:49] - ~phan2 sold 71x Oak Planks(Blocks.page5.items.207), 24x Oak Stairs(Blocks.page5.items.209) for $20.44 with the sell gui.
+[2024-07-01 20:41:41] - ~phan2 sold 43x Lantern(Miscellaneous.page2.items.56), 46x Azure Bluet(Dyes.page1.items.17), 32x Orange Tulip(Dyes.page1.items.22), 33x Lily Of The Valley(Dyes.page1.items.21), 21x Dirt(Blocks.page3.items.102), 34x Red Tulip(Dyes.page1.items.29), 34x Flower Pot(Decoration.page1.items.2), 4x Candle(Decoration.page1.items.10), 4x Turtle Egg(Miscellaneous.page1.items.39), 24x Cobblestone(Blocks.page2.items.54), 20x Friend Pottery Sherd(Decoration.page3.items.116), 24x Amethyst Shard(Ores.page1.items.2), 11x Dark Oak Hanging Sign(Decoration.page3.items.91), 9x Orange Wool(Blocks.page6.items.233), 36x Pink Tulip(Dyes.page1.items.26), 31x Bamboo Trapdoor(Blocks.page1.items.31), 12x Prize Pottery Sherd(Decoration.page3.items.123), 56x White Candle(Decoration.page1.items.22), 12x Green Wool(Blocks.page6.items.228), 57x Peony(Dyes.page1.items.24), 6x Flowering Azalea(Decoration.page2.items.76), 57x Lilac(Dyes.page1.items.20), 61x Dark Oak Leaves(Decoration.page2.items.58) for $1,620.48 with the sell gui.
+[2024-07-01 20:45:27] - gladios1234 bought 64 x Grass Block(Blocks.page3.items.103) for $512 with the buy screen.
+[2024-07-01 20:45:27] - gladios1234 bought 64 x Grass Block(Blocks.page3.items.103) for $512 with the buy screen.
+[2024-07-01 20:45:27] - gladios1234 bought 64 x Grass Block(Blocks.page3.items.103) for $512 with the buy screen.
+[2024-07-01 20:45:28] - gladios1234 bought 64 x Grass Block(Blocks.page3.items.103) for $512 with the buy screen.
+[2024-07-01 20:45:28] - gladios1234 bought 64 x Grass Block(Blocks.page3.items.103) for $512 with the buy screen.
+[2024-07-01 20:46:33] - gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[2024-07-01 20:46:33] - gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[2024-07-01 20:46:34] - gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[2024-07-01 20:50:22] - ~phan2 sold 64x Stone(Blocks.page1.items.11), 46x Grass Block(Blocks.page3.items.103) for $103.52 with the sell gui.
+[2024-07-01 20:57:40] - gladios1234 bought 1 x Dark Oak Stairs(Blocks.page5.items.188) for $1.16 with the buy screen.
+[2024-07-01 20:57:41] - gladios1234 bought 1 x Dark Oak Stairs(Blocks.page5.items.188) for $1.16 with the buy screen.
+[2024-07-01 20:57:41] - gladios1234 bought 1 x Dark Oak Stairs(Blocks.page5.items.188) for $1.16 with the buy screen.
+[2024-07-01 20:58:34] - ~phan2 sold 292x Stone(Blocks.page1.items.11) for $52.56 with the sell gui.
+[2024-07-01 20:58:41] - ~phan2 sold 128x Grass Block(Blocks.page3.items.103) for $256 with the sell gui.
+[2024-07-01 21:06:17] - gladios1234 bought 16 x Shroomlight(Decoration.page2.items.64) for $128 with the buy screen.
+[2024-07-01 21:07:10] - ~phan2 sold 78x Pumpkin Seeds(Farming.page1.items.23), 10x Melon(Farming.page1.items.16), 19x Melon Seeds(Farming.page1.items.17) for $61.35 with the sell gui.
+[2024-07-01 21:09:29] - gladios1234 bought 64 x Melon(Farming.page1.items.16) for $604.80 with the buy screen.
+[2024-07-01 21:10:31] - gladios1234 bought 64 x Dark Oak Stairs(Blocks.page5.items.188) for $74.24 with the buy screen.
+[2024-07-01 21:10:31] - gladios1234 bought 64 x Dark Oak Stairs(Blocks.page5.items.188) for $74.24 with the buy screen.
+[2024-07-01 21:10:32] - gladios1234 bought 64 x Dark Oak Stairs(Blocks.page5.items.188) for $74.24 with the buy screen.
+[2024-07-01 21:10:32] - gladios1234 bought 64 x Dark Oak Stairs(Blocks.page5.items.188) for $74.24 with the buy screen.
+[2024-07-01 23:38:03] - ~phan2 sold 37x Glass Pane(Blocks.page3.items.113), 62x Melon(Farming.page1.items.16), 9x Grass Block(Blocks.page3.items.103) for $188.25 with the sell gui.
+[2024-07-01 23:38:14] - gladios1234 bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-01 23:38:14] - gladios1234 bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-01 23:38:15] - gladios1234 bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-01 23:38:15] - gladios1234 bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-01 23:38:31] - gladios1234 bought 4 x Green Dye(Dyes.page1.items.6) for $0.44 with the buy screen.
+[2024-07-01 23:39:07] - gladios1234 bought 16 x Green Dye(Dyes.page1.items.6) for $1.76 with the buy screen.
+[2024-07-01 23:44:51] - ~phan2 sold 96x Glass(Blocks.page3.items.112) for $151.68 with the sell gui.
+[2024-07-01 23:46:24] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:24] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:56] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:56] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:56] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:57] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:57] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:57] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:58] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:46:59] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:47:00] - gladios1234 bought 1 x Barrel(Workstations.page1.items.1) for $5.45 with the buy screen.
+[2024-07-01 23:57:22] - gladios1234 bought 6 x Barrel(Workstations.page1.items.1) for $32.70 with the buy screen.
+[2024-07-02 00:04:14] - gladios1234 bought 12 x Barrel(Workstations.page1.items.1) for $65.40 with the buy screen.
+[2024-07-02 00:10:35] - gladios1234 bought 32 x Light(Miscellaneous.page3.items.7) for $3,200 with the buy screen.
+[2024-07-02 00:25:03] - gladios1234 bought 1 x Light(Miscellaneous.page3.items.7) for $100 with the buy screen.
+[2024-07-02 00:25:04] - gladios1234 bought 1 x Light(Miscellaneous.page3.items.7) for $100 with the buy screen.
+[2024-07-02 00:26:14] - gladios1234 bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $47.36 with the buy screen.
+[2024-07-02 00:26:15] - gladios1234 bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $47.36 with the buy screen.
+[2024-07-02 00:26:15] - gladios1234 bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $47.36 with the buy screen.
+[2024-07-02 00:26:15] - gladios1234 bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $47.36 with the buy screen.
+[2024-07-02 00:27:38] - gladios1234 bought 16 x Green Wool(Blocks.page6.items.228) for $470.40 with the buy screen.
+[2024-07-02 00:28:37] - gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[2024-07-02 00:29:32] - ~phan2 sold 2x Pumpkin Seeds(Farming.page1.items.23), 2x Dirt(Blocks.page3.items.102), 3x Melon Seeds(Farming.page1.items.17), 64x Dark Oak Planks(Blocks.page5.items.186) for $16.51 with the sell gui.
+[2024-07-02 00:30:04] - ~phan2 sold 7x Dirt(Blocks.page3.items.102), 3x Pumpkin(Farming.page1.items.22), 6x Melon Slice(Farming.page1.items.18), 1x Melon Seeds(Farming.page1.items.17) for $11.25 with the sell gui.
+[2024-07-02 00:30:29] - ~phan2 sold 3x Dirt(Blocks.page3.items.102) for $2.25 with the sell gui.
+[2024-07-02 00:32:16] - gladios1234 bought 1 x Pitcher Pod(Farming.page1.items.20) for $20.50 with the buy screen.
+[2024-07-02 00:32:47] - gladios1234 bought 1 x Pitcher Pod(Farming.page1.items.20) for $20.50 with the buy screen.
+[2024-07-02 00:33:10] - ~phan2 sold 20x Spruce Log(Blocks.page5.items.211), 172x Dark Oak Planks(Blocks.page5.items.186), 172x Dark Oak Stairs(Blocks.page5.items.188), 66x Dark Oak Log(Blocks.page5.items.185), 6x Dark Oak Slab(Blocks.page5.items.187), 15x Shroomlight(Decoration.page2.items.64) for $177.66 with the sell gui.
+[2024-07-02 00:33:16] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:16] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:16] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:17] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:17] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:17] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:18] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:18] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:18] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:18] - gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
+[2024-07-02 00:33:31] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
+[2024-07-02 00:33:31] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
+[2024-07-02 00:33:31] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
+[2024-07-02 00:33:32] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
+[2024-07-02 00:33:32] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
+[2024-07-02 00:33:32] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
+[2024-07-02 00:33:33] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
+[2024-07-02 00:33:33] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
+[2024-07-02 00:33:33] - gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
