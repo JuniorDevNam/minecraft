@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.224.178.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653319657812
+  login: 1653312310902
+money: '68953231.95000000000040'
+last-account-name: lilpoww
+lastlocation:
+  world: fcb4f39d-e6b6-48fa-9490-f838ee4b265e
+  world-name: world
+  x: 195.4620362977463
+  y: 63.0
+  z: 2044.2120942437755
+  yaw: -164.4306640625
+  pitch: -7.8000054359436035
+logoutlocation:
+  world: fcb4f39d-e6b6-48fa-9490-f838ee4b265e
+  world-name: world
+  x: 223.4365583956574
+  y: 47.0
+  z: 2036.3445000033091
+  yaw: -22.5035400390625
+  pitch: 3.300041913986206
+nickname: Bo

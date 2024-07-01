@@ -1,0 +1,59 @@
+uuid: 6a43e6d8-bba7-3cfa-8dac-98afe51e7a1d
+skills:
+  farming:
+    level: 11
+    xp: 4913.749999999305
+  foraging:
+    level: 1
+    xp: 15.200000000000006
+  mining:
+    level: 7
+    xp: 52.74999999985154
+  fishing:
+    level: 10
+    xp: 1703.0
+  excavation:
+    level: 8
+    xp: 245.14000000004864
+  archery:
+    level: 5
+    xp: 1216.6000000000026
+  defense:
+    level: 15
+    xp: 10656.71715929506
+  fighting:
+    level: 16
+    xp: 534.7000000001451
+  endurance:
+    level: 13
+    xp: 3055.0
+  agility:
+    level: 7
+    xp: 2332.8192934989934
+  alchemy:
+    level: 6
+    xp: 127.5
+  enchanting:
+    level: 2
+    xp: 4.0
+  sorcery:
+    level: 5
+    xp: 1545.0
+  healing:
+    level: 10
+    xp: 4965.4
+  forging:
+    level: 9
+    xp: 2360.0
+mana: 76.0
+locale: en
+ability_data:
+  first_strike:
+    counter: 201
+  xp_convert:
+    xp: 7.9729019689608265
+stat_modifiers:
+  '0':
+    name: AbilityModifier-WiseEffect
+    stat: wisdom
+    value: 9.0

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.224.177.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687706424816
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687706800044
+  login: 1687706044438
+money: '0'
+last-account-name: QuySech20007
+lastlocation:
+  world: 6070b197-d770-4d72-a000-8f9c12ec0f94
+  world-name: world_the_end
+  x: 1.8249310818940179
+  y: 1.0
+  z: 298.30000001192093
+  yaw: 131.486083984375
+  pitch: 34.158267974853516
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 2919.361977378513
+  y: 65.0
+  z: 2741.03212324321
+  yaw: -89.404052734375
+  pitch: 30.59996223449707

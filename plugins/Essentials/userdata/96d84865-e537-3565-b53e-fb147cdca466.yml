@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.231.30.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699606633388
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699607952224
+  login: 1699604561768
+money: '0'
+last-account-name: WMG_KienVT
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 3073.5
+  y: 69.5625
+  z: 3045.5
+  yaw: -4.9415598368796054E-6
+  pitch: 0.0
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: -5556.141164180694
+  y: -25.0
+  z: 9855.518601467378
+  yaw: -82.17919921875
+  pitch: 52.479095458984375

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 1.53.240.210
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663646306837
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663646387393
+  login: 1663642567883
+money: '0'
+last-account-name: breadoverheaven
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 758.2046128714636
+  y: 59.0
+  z: 453.3113247009158
+  yaw: 30.50188446044922
+  pitch: 37.34994888305664
+logoutlocation:
+  world: 6070b197-d770-4d72-a000-8f9c12ec0f94
+  world-name: world_the_end
+  x: 0.7713850494165908
+  y: 1.0
+  z: 297.7254089472326
+  yaw: 117.9872817993164
+  pitch: 12.558018684387207
+homes:
+  home:
+    world: 6000fa1e-792c-48f6-9092-83aa876e0187
+    world-name: world
+    x: 758.9213015840061
+    y: 59.0
+    z: 454.6312339669492
+    yaw: 15.651898384094238
+    pitch: 36.599971771240234

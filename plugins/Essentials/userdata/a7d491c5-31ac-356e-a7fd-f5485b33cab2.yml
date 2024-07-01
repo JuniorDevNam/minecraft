@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 42.116.229.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667189442617
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667273192961
+  login: 1667273132007
+money: '0'
+last-account-name: phanhai
+lastlocation:
+  world: 6070b197-d770-4d72-a000-8f9c12ec0f94
+  world-name: world_the_end
+  x: 0.42872362624086574
+  y: 1.0
+  z: 297.60432674359043
+  yaw: -6.866729736328125
+  pitch: 0.7751986980438232
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 3040.013670072612
+  y: 64.0
+  z: 3008.9074452633336
+  yaw: -159.7396240234375
+  pitch: 0.427248477935791

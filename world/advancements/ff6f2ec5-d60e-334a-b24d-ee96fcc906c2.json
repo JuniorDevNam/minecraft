@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2022-12-01 19:53:13 +0700",
+      "minecraft:river": "2022-12-01 19:53:09 +0700",
+      "minecraft:forest": "2022-12-01 19:53:05 +0700",
+      "minecraft:plains": "2022-12-01 19:52:35 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

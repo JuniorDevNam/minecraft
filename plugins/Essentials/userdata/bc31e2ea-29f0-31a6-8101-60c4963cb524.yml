@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 42.116.242.212
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663248413526
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663249474656
+  login: 1663248629275
+money: '0'
+last-account-name: dung
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 130.01314554389145
+  y: 69.0
+  z: 342.0511628630398
+  yaw: -288.5589599609375
+  pitch: 22.694828033447266
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 51.5
+  y: 66.0
+  z: 173.5
+  yaw: 0.36237242817878723
+  pitch: -0.16105441749095917

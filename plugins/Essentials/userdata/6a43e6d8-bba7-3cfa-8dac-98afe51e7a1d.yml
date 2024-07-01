@@ -1,0 +1,56 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.79.190.95
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668961998072
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668963349536
+  login: 1668963319552
+money: '0'
+last-account-name: DucHung20007
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 349.9445362121035
+  y: 10.0
+  z: 537.0113931918207
+  yaw: 141.30569458007812
+  pitch: 27.450538635253906
+nickname: Hungf
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 2932.0464634197588
+  y: 60.0
+  z: 3004.699999988079
+  yaw: 143.09521484375
+  pitch: 35.99996566772461
+mail:
+- legacy: false
+  read: true
+  message: ôn đc gì r hùg
+  sender-name: Nam1234231
+  sender-uuid: 962c3a59-6dc2-3f02-b5c7-fa2fdb690650
+  timestamp: 1653317933339
+  expire: 0
+homes:
+  home:
+    world: 6000fa1e-792c-48f6-9092-83aa876e0187
+    world-name: world
+    x: 228.24494517779215
+    y: 65.0
+    z: 566.8746422011268
+    yaw: -88.670654296875
+    pitch: 18.299863815307617
