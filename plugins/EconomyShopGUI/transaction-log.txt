@@ -3212,3 +3212,63 @@
 [2024-07-01 00:19:31] - ~lamperlore sold 2x Granite(Blocks.page3.items.115), 8x Cooked Chicken(Food.page1.items.12) for $13 with the sell gui.
 [2024-07-01 00:30:10] - Nam1234231 bought 64 x Cactus(Farming.page1.items.7) for $6.40 with the buy stacks screen.
 [2024-07-01 00:48:04] - ~lamperlore sold 4x Iron Ingot(Ores.page1.items.16), 7x Sculk Catalyst(Miscellaneous.page3.items.4), 3x Deepslate(Blocks.page3.items.92) for $1,771.54 with the sell gui.
+[2024-07-01 08:26:24] - Tuanxxx7 bought 16 x Mud Brick Wall(Blocks.page3.items.122) for $151.68 with the buy screen.
+[2024-07-01 08:41:11] - Tuanxxx7 bought 1 x Pumpkin(Farming.page1.items.22) for $5 with the buy screen.
+[2024-07-01 08:42:02] - Tuanxxx7 bought 5 x Iron Block(Ores.page1.items.15) for $992.25 with the buy screen.
+[2024-07-01 08:43:49] - Tuanxxx7 bought 1 x Turtle Egg(Miscellaneous.page1.items.39) for $15 with the buy screen.
+[2024-07-01 08:45:00] - Tuanxxx7 bought 16 x Magma Block(Blocks.page1.items.5) for $538.08 with the buy screen.
+[2024-07-01 08:46:18] - Tuanxxx7 sold 7 x Iron Block(Ores.page1.items.15) for $347.34 with the sell all command.
+[2024-07-01 08:46:44] - Tuanxxx7 bought 33 x Mud Brick Wall(Blocks.page3.items.122) for $312.84 with the buy screen.
+[2024-07-01 08:51:52] - Tuanxxx7 sold 72 x Emerald Block(Ores.page1.items.12) for $24,192.72 with the sell all command.
+[2024-07-01 08:52:16] - Tuanxxx7 bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-01 08:55:31] - Tuanxxx7 bought 192 x Glass(Blocks.page3.items.112) for $1,209.60 with the buy stacks screen.
+[2024-07-01 08:57:27] - Tuanxxx7 bought 3 x Potion(Potions.page1.items.16) for $54.54 with the buy screen.
+[2024-07-01 09:03:03] - Tuanxxx7 bought 6 x Iron Block(Ores.page1.items.15) for $1,190.69 with the buy screen.
+[2024-07-01 09:05:04] - Tuanxxx7 bought 1 x Pumpkin(Farming.page1.items.22) for $5 with the buy screen.
+[2024-07-01 09:09:08] - Nam1234231 bought 64 x Powered Rail(Redstone.page1.items.34) for $2,272 with the buy stacks screen.
+[2024-07-01 09:09:12] - Nam1234231 bought 1 x Rail(Redstone.page1.items.35) for $2.50 with the buy screen.
+[2024-07-01 09:09:19] - Nam1234231 bought 63 x Rail(Redstone.page1.items.35) for $157.50 with the buy screen.
+[2024-07-01 09:11:18] - Tuanxxx7 bought 320 x Glass(Blocks.page3.items.112) for $2,016 with the buy stacks screen.
+[2024-07-01 09:20:15] - Nam1234231 bought 64 x Redstone Lamp(Redstone.page1.items.12) for $3,386.88 with the buy stacks screen.
+[2024-07-01 09:21:33] - Nam1234231 bought 1 x Lever(Redstone.page1.items.8) for $1.12 with the buy screen.
+[2024-07-01 09:23:20] - Tuanxxx7 bought 64 x Bamboo Trapdoor(Blocks.page1.items.31) for $100.48 with the buy screen.
+[2024-07-01 09:24:45] - Nam1234231 bought 1 x Lever(Redstone.page1.items.8) for $1.12 with the buy screen.
+[2024-07-01 09:32:42] - Tuanxxx7 bought 128 x Glass(Blocks.page3.items.112) for $806.40 with the buy stacks screen.
+[2024-07-01 09:39:33] - Tuanxxx7 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 09:39:43] - Tuanxxx7 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 09:39:44] - Tuanxxx7 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 09:39:44] - Tuanxxx7 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 09:39:45] - Tuanxxx7 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 09:39:45] - Tuanxxx7 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 09:39:46] - Tuanxxx7 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 09:39:46] - Tuanxxx7 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 09:40:06] - Tuanxxx7 bought 4 x Potion(Potions.page1.items.16) for $72.72 with the buy screen.
+[2024-07-01 09:44:03] - Tuanxxx7 bought 1 x Enchanted Book(Enchanting.page1.items.36) for $275.63 with the buy screen.
+[2024-07-01 09:44:22] - Tuanxxx7 bought 1 x Anvil(Miscellaneous.page1.items.1) for $713.32 with the buy screen.
+[2024-07-01 09:53:25] - Tuanxxx7 sold 560 x Iron Ingot(Ores.page1.items.16) for $2,940 with the sell all command.
+[2024-07-01 09:53:26] - Tuanxxx7 sold 560 x Iron Ingot(Ores.page1.items.16) for $2,940 with the sell all command.
+[2024-07-01 09:53:27] - Tuanxxx7 sold 224 x Iron Ingot(Ores.page1.items.16) for $1,176 with the sell all command.
+[2024-07-01 09:54:06] - Tuanxxx7 sold 374 x Iron Block(Ores.page1.items.15) for $18,557.87 with the sell all command.
+[2024-07-01 09:55:42] - Tuanxxx7 bought 128 x Magma Block(Blocks.page1.items.5) for $4,304.64 with the buy stacks screen.
+[2024-07-01 09:57:17] - Tuanxxx7 bought 448 x Magma Block(Blocks.page1.items.5) for $15,066.24 with the buy stacks screen.
+[2024-07-01 10:02:10] - Tuanxxx7 bought 128 x Magma Block(Blocks.page1.items.5) for $4,304.64 with the buy stacks screen.
+[2024-07-01 10:03:38] - Tuanxxx7 bought 1088 x Magma Block(Blocks.page1.items.5) for $36,589.44 with the buy stacks screen.
+[2024-07-01 10:05:18] - Tuanxxx7 bought 2 x Potion(Potions.page1.items.16) for $36.36 with the buy screen.
+[2024-07-01 10:08:38] - Nam1234231 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 10:08:38] - Nam1234231 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 10:08:39] - Nam1234231 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 10:08:39] - Nam1234231 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 10:08:40] - Nam1234231 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 10:08:40] - Nam1234231 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 10:08:41] - Nam1234231 bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy stacks screen.
+[2024-07-01 10:09:41] - Tuanxxx7 bought 1088 x Polished Andesite Slab(Blocks.page1.items.17) for $389.12 with the buy stacks screen.
+[2024-07-01 10:17:14] - Tuanxxx7 bought 64 x Cooked Porkchop(Food.page1.items.14) for $403.20 with the buy screen.
+[2024-07-01 10:17:31] - Tuanxxx7 bought 64 x Tnt(Blocks.page1.items.12) for $6,821.12 with the buy screen.
+[2024-07-01 10:21:47] - Tuanxxx7 bought 64 x Scaffolding(Miscellaneous.page1.items.28) for $85.12 with the buy screen.
+[2024-07-01 10:23:58] - Tuanxxx7 bought 1 x Arrow(Mobs.page1.items.1) for $2.21 with the buy screen.
+[2024-07-01 10:24:26] - Tuanxxx7 bought 33 x Polished Andesite Slab(Blocks.page1.items.17) for $12.54 with the buy screen.
+[2024-07-01 10:31:12] - Tuanxxx7 bought 16 x Bamboo(Farming.page1.items.1) for $1.60 with the buy screen.
+[2024-07-01 10:43:16] - Tuanxxx7 bought 17 x Glass(Blocks.page3.items.112) for $107.10 with the buy screen.
+[2024-07-01 10:50:52] - Tuanxxx7 bought 1 x Arrow(Mobs.page1.items.1) for $2.21 with the buy screen.
+[2024-07-01 10:59:20] - Tuanxxx7 bought 16 x Glass(Blocks.page3.items.112) for $100.80 with the buy screen.
+[2024-07-01 11:00:27] - Tuanxxx7 bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
