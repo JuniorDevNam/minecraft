@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 58.187.249.210
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1714499039485
+  lastteleport: 1720116006329
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714499206656
-  login: 1714492647599
-money: '0'
+  logout: 1720116637053
+  login: 1720111094405
+money: '821.09000000000004'
 last-account-name: CrazyCat27
 lastlocation:
   world: 6070b197-d770-4d72-a000-8f9c12ec0f94
   world-name: world_the_end
-  x: 1.0770405755420025
+  x: 1.699999988079071
   y: 1.0
-  z: 297.3559453358686
-  yaw: 151.1352996826172
-  pitch: 7.908924579620361
+  z: 299.30000001192093
+  yaw: 42.67694091796875
+  pitch: 14.058032989501953
 logoutlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: -229.29197113779944
-  y: 68.0
-  z: 604.9353409045043
-  yaw: -84.74810791015625
-  pitch: 15.599800109863281
+  x: 2970.606650805621
+  y: 69.0
+  z: 3167.506764966598
+  yaw: -31.40863037109375
+  pitch: 3.449575901031494

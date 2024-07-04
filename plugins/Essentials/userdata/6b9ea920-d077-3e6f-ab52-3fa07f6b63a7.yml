@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 1.52.219.91
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -11,29 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1704468506815
+  lastteleport: 1720116014394
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1704469944901
-  login: 1704467736850
-money: '8174.9330310000028964'
+  logout: 1720116080440
+  login: 1720111846477
+money: '458942.8330310000027964'
 last-account-name: DuyTramCam
 logoutlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 3087.651578510509
-  y: 69.0
-  z: 3086.9743749473737
-  yaw: 2.5938720703125
-  pitch: -4.688154697418213
+  x: 23.009792588649592
+  y: 73.0
+  z: 324.4877954195695
+  yaw: -6.41845703125
+  pitch: 3.9000611305236816
 lastlocation:
-  world: 6000fa1e-792c-48f6-9092-83aa876e0187
-  world-name: world
-  x: 2754.1951705567585
-  y: 75.0
-  z: 3185.5679819878383
-  yaw: -158.6597442626953
-  pitch: 12.460996627807617
+  world: 6070b197-d770-4d72-a000-8f9c12ec0f94
+  world-name: world_the_end
+  x: 25.53725282136751
+  y: 57.0
+  z: 61.56578304088633
+  yaw: -82.715087890625
+  pitch: 9.750067710876465
 nickname: daddyofquysech

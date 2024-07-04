@@ -6537,5 +6537,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-07-04 14:03:02 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

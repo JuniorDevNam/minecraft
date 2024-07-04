@@ -1,177 +1,501 @@
-[00:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
-[00:03:02] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:04:05] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:04:14] [Server thread/INFO]: Shop >> gladios1234 bought 12 x Barrel(Workstations.page1.items.1) for $65.40 with the buy screen.
-[00:04:30] [Server thread/INFO]: gladios1234 issued server command: /craft
-[00:07:02] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:09:01] [Server thread/INFO]: gladios1234 issued server command: /craft
-[00:10:07] [Server thread/INFO]: gladios1234 issued server command: /home
-[00:10:26] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:10:35] [Server thread/INFO]: Shop >> gladios1234 bought 32 x Light(Miscellaneous.page3.items.7) for $3,200 with the buy screen.
-[00:11:03] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:14:55] [Craft Scheduler Thread - 165 - Vault/INFO]: [Vault] Checking for Updates ... 
-[00:14:55] [Craft Scheduler Thread - 165 - Vault/INFO]: [Vault] No new version available
-[00:15:03] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:19:03] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:23:03] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:24:56] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:25:03] [Server thread/INFO]: Shop >> gladios1234 bought 1 x Light(Miscellaneous.page3.items.7) for $100 with the buy screen.
-[00:25:04] [Server thread/INFO]: Shop >> gladios1234 bought 1 x Light(Miscellaneous.page3.items.7) for $100 with the buy screen.
-[00:25:51] [Server thread/INFO]: gladios1234 issued server command: /craft
-[00:26:07] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:26:14] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $47.36 with the buy screen.
-[00:26:15] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $47.36 with the buy screen.
-[00:26:15] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $47.36 with the buy screen.
-[00:26:15] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $47.36 with the buy screen.
-[00:26:17] [Server thread/INFO]: gladios1234 issued server command: /craft
-[00:27:04] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:27:30] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:27:38] [Server thread/INFO]: Shop >> gladios1234 bought 16 x Green Wool(Blocks.page6.items.228) for $470.40 with the buy screen.
-[00:28:29] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:28:37] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
-[00:29:25] [Server thread/INFO]: gladios1234 issued server command: /sellgui
-[00:29:32] [Server thread/INFO]: Shop >> ~phan2 sold 2x Pumpkin Seeds(Farming.page1.items.23), 2x Dirt(Blocks.page3.items.102), 3x Melon Seeds(Farming.page1.items.17), 64x Dark Oak Planks(Blocks.page5.items.186) for $16.51 with the sell gui.
-[00:29:56] [Server thread/INFO]: gladios1234 issued server command: /sellgui
-[00:30:04] [Server thread/INFO]: Shop >> ~phan2 sold 7x Dirt(Blocks.page3.items.102), 3x Pumpkin(Farming.page1.items.22), 6x Melon Slice(Farming.page1.items.18), 1x Melon Seeds(Farming.page1.items.17) for $11.25 with the sell gui.
-[00:30:27] [Server thread/INFO]: gladios1234 issued server command: /sellgui
-[00:30:29] [Server thread/INFO]: Shop >> ~phan2 sold 3x Dirt(Blocks.page3.items.102) for $2.25 with the sell gui.
-[00:31:04] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:32:08] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:32:16] [Server thread/INFO]: Shop >> gladios1234 bought 1 x Pitcher Pod(Farming.page1.items.20) for $20.50 with the buy screen.
-[00:32:32] [Server thread/INFO]: gladios1234 issued server command: /raft
-[00:32:34] [Server thread/INFO]: gladios1234 issued server command: /craft
-[00:32:42] [Server thread/INFO]: gladios1234 issued server command: /shp
-[00:32:43] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:32:47] [Server thread/INFO]: Shop >> gladios1234 bought 1 x Pitcher Pod(Farming.page1.items.20) for $20.50 with the buy screen.
-[00:32:59] [Server thread/INFO]: gladios1234 issued server command: /sellgui
-[00:33:10] [Server thread/INFO]: Shop >> ~phan2 sold 20x Spruce Log(Blocks.page5.items.211), 172x Dark Oak Planks(Blocks.page5.items.186), 172x Dark Oak Stairs(Blocks.page5.items.188), 66x Dark Oak Log(Blocks.page5.items.185), 6x Dark Oak Slab(Blocks.page5.items.187), 15x Shroomlight(Decoration.page2.items.64) for $177.66 with the sell gui.
-[00:33:13] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:33:16] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:16] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:16] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:17] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:17] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:17] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:18] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:18] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:18] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:18] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Pitcher Pod(Farming.page1.items.20) for $1,312 with the buy screen.
-[00:33:25] [Server thread/INFO]: gladios1234 issued server command: /shop
-[00:33:31] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:33:31] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:33:31] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:33:32] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:33:32] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:33:32] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:33:33] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:33:33] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:33:33] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Torchflower Seeds(Farming.page1.items.26) for $1,312 with the buy screen.
-[00:35:02] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
-[00:35:02] [Server thread/INFO]: gladios1234 lost connection: Disconnected
-[00:35:03] [Server thread/INFO]: gladios1234 left the game
-[00:35:04] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:35:05] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.142.194:12964, peerAddr=1.55.7.147:4695, claimAddress=[2602:fbaf:0848:0000:0000:0000:0000:0002]:43784, claimToken=[44, 0, 60, -47, 25, -114, -62, 50, -92, 1, 55, 7, -109, 18, 87, 92, 122, 104, 115, -85, 8, 102, -126, -24, -55, 0, 0, 0, 0, 0, 7, -85, -98, 0, 0, 0, 0, 0, 51, 75, 83, -116, 115, -85, 8, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, -59, -114, -45, -12, 57, 89, 74, 22, -127, 90, -88, 123, 25, -59, 82, 10], tunnelServerId=4, dataCenterId=18}
-[00:35:05] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[00:35:05] [Thread-17/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /[2602:fbaf:848:0:0:0:0:2]:43784 to claim client
-[00:35:05] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[00:35:05] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[00:35:05] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[00:35:05] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
-[00:35:05] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
-[00:35:05] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at /0.0.0.0:45754
-[00:35:05] [nioEventLoopGroup-2-2/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to minecraft server
-[00:35:05] [nioEventLoopGroup-2-2/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to connect to local minecraft server
-[00:39:05] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:43:05] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:47:05] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:51:05] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:55:05] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:59:05] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:59:10] [Server thread/INFO]: Stopping the server
-[00:59:10] [Server thread/INFO]: Stopping server
-[00:59:10] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.4.6
-[00:59:10] [Server thread/INFO]: [MyDog] Disabling MyDog v0.2.2
-[00:59:11] [Server thread/INFO]: [MyDog] Loaded 9 dogs.
-[00:59:11] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
-[00:59:11] [Server thread/INFO]: [Graves] Disabling Graves v4.9
-[00:59:11] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
-[00:59:11] [Server thread/INFO]: [AuraMobs] Disabling AuraMobs v2.0.1
-[00:59:11] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
-[00:59:11] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.6
-[00:59:11] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[00:59:11] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 6.6
-[00:59:11] [Server thread/INFO]: [Multiverse-SignPortals] Disabling Multiverse-SignPortals v4.2.2
-[00:59:11] [Server thread/INFO]: [Multiverse-SignPortals] - Disabled
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.3.25 (build 89)
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 5ms!
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module EntityLimiter in 2ms.
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module WorldCleaner in 2ms.
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module RedstoneLimiter in 3ms.
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module InstantLeafDecay in 2ms.
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module LagMonitor in 4ms.
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomVehicles in 17ms.
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomAi in 5ms.
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 48ms!
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
-[00:59:11] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 9ms!
-[00:59:11] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.10.0
-[00:59:11] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[00:59:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[00:59:12] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.3-SNAPSHOT
-[00:59:12] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
-[00:59:12] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[00:59:12] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.0.4
-[00:59:13] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
-[00:59:13] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
-[00:59:13] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
-[00:59:13] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[00:59:14] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.0+6678-55745ad
-[00:59:14] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[00:59:14] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[00:59:14] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.121
-[00:59:14] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[00:59:14] [Server thread/INFO]: [LuckPerms] Closing storage...
-[00:59:15] [Server thread/INFO]: [LuckPerms] Goodbye!
-[00:59:15] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.10.0
-[00:59:15] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[00:59:15] [Server thread/INFO]: Saving players
-[00:59:15] [Server thread/INFO]: Saving worlds
-[00:59:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:59:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[00:59:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[00:59:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[00:59:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 32 entity chunks, 0 poi chunks in world 'world' in 0.21s
-[00:59:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:59:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:59:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[00:59:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[00:59:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[00:59:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 121 entity chunks, 0 poi chunks in world 'world_nether' in 0.51s
-[00:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:59:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:59:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[00:59:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[00:59:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[00:59:17] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 6 entity chunks, 0 poi chunks in world 'world_the_end' in 0.16s
-[00:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:59:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[flatroom]'/minecraft:flatroom
-[00:59:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'flatroom'
-[00:59:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'flatroom'
-[00:59:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'flatroom'
-[00:59:17] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 8 entity chunks, 0 poi chunks in world 'flatroom' in 0.13s
-[00:59:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (flatroom): All chunks are saved
-[00:59:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:59:18] [Server thread/INFO]: Saving usercache.json
-[00:59:18] [Server thread/INFO]: Flushing Chunk IO
-[00:59:18] [Server thread/INFO]: Closing Thread Pool
-[00:59:18] [Server thread/INFO]: Closing Server
+[00:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3877ms or 77 ticks behind
+[00:00:35] [Server thread/INFO]: Nam1234231 issued server command: /ec
+[00:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
+[00:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4503ms or 90 ticks behind
+[00:01:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
+[00:01:24] [Server thread/INFO]: DuyTramCam issued server command: /warp ChàoMừngĐếnVớiBìnhNguyênVôTận:))))))
+[00:01:24] [Server thread/INFO]: CrazyCat27 issued server command: /shop
+[00:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
+[00:01:38] [Server thread/INFO]: Nam1234231 issued server command: /sellgui
+[00:01:40] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:01:50] [Server thread/INFO]: Shop >> ~lamperlore sold 20x Pumpkin(Farming.page1.items.22), 8x Oak Planks(Blocks.page5.items.207), 94x Stone(Blocks.page1.items.11), 6x Grass Block(Blocks.page3.items.103), 14x Diorite(Blocks.page3.items.96), 2x Gravel(Blocks.page3.items.104), 7x Granite(Blocks.page3.items.115) for $63.22 with the sell gui.
+[00:03:09] [Server thread/INFO]: gladios1234 issued server command: /craft
+[00:03:13] [Async Chat Thread - #8/INFO]: [Not Secure] <~lamperlore> o vl cau ca cau dc ca vang :)
+[00:03:27] [Server thread/INFO]: Nam1234231 issued server command: /sellgui
+[00:03:32] [Server thread/INFO]: Shop >> ~lamperlore sold 5x Gold Ingot(Ores.page1.items.14), 2x Saddle(Miscellaneous.page1.items.26), 3x Nautilus Shell(Mobs.page1.items.11), 5x Bone(Mobs.page1.items.4) for $211.90 with the sell gui.
+[00:03:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[00:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[00:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[00:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[00:05:40] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
+[00:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[00:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3207ms or 64 ticks behind
+[00:09:09] [Server thread/INFO]: Nam1234231 issued server command: /warp zv
+[00:09:40] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:10:07] [Server thread/INFO]: DuyTramCam issued server command: /warp zv
+[00:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[00:10:27] [Server thread/INFO]: gladios1234 issued server command: /craft
+[00:13:41] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:15:21] [Server thread/INFO]: gladios1234 issued server command: /craft
+[00:16:14] [Server thread/INFO]: gladios1234 issued server command: /craft
+[00:17:33] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:17:41] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:17:41] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Grass Block(Blocks.page3.items.103) for $512 with the buy screen.
+[00:17:48] [Async Chat Thread - #10/INFO]: [Not Secure] <~daddyofquysech> :)
+[00:17:53] [Async Chat Thread - #10/INFO]: [Not Secure] <~daddyofquysech> dang doi hinh nen :))
+[00:17:55] [Async Chat Thread - #10/INFO]: [Not Secure] <~lamperlore> :)
+[00:18:12] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[00:18:12] [Server thread/INFO]: Nam1234231 lost connection: Disconnected
+[00:18:12] [Server thread/INFO]: Nam1234231 left the game
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.142.194:12964, peerAddr=14.177.51.26:64291, claimAddress=[2602:fbaf:0848:0000:0000:0000:0000:0002]:43784, claimToken=[44, 0, 60, -47, 25, -114, -62, 50, -92, 14, -79, 51, 26, -5, 35, 17, 29, 79, -89, -85, 8, 102, -122, -39, 96, 0, 0, 0, 0, 0, 7, -85, -98, 0, 0, 0, 0, 0, 51, 75, 83, 62, -89, -85, 8, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, -42, -59, 5, 19, 0, -16, -62, 44, 118, 106, -92, 41, -25, -99, -102, -99], tunnelServerId=4, dataCenterId=18}
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /[2602:fbaf:848:0:0:0:0:2]:43784 to claim client
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.142.194:12964, peerAddr=14.177.51.26:64292, claimAddress=[2602:fbaf:0848:0000:0000:0000:0000:0002]:43784, claimToken=[44, 0, 60, -47, 25, -114, -62, 50, -92, 14, -79, 51, 26, -5, 36, -98, 111, -123, -51, -85, 8, 102, -122, -39, 96, 0, 0, 0, 0, 0, 7, -85, -98, 0, 0, 0, 0, 0, 51, 75, 83, -90, -51, -85, 8, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, -123, -11, -56, -70, -115, 25, -55, -86, 87, 20, 1, -26, -56, 34, -95, -20], tunnelServerId=5, dataCenterId=18}
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /[2602:fbaf:848:0:0:0:0:2]:43784 to claim client
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:18:24] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:18:24] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at /0.0.0.0:45754
+[00:18:24] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:18:24] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:18:24] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:18:24] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[00:18:24] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at /0.0.0.0:45754
+[00:18:24] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.142.194:12964, peerAddr=14.177.51.26:64293, claimAddress=[2602:fbaf:0848:0000:0000:0000:0000:0002]:43784, claimToken=[44, 0, 60, -47, 25, -114, -62, 50, -92, 14, -79, 51, 26, -5, 37, -44, 121, -70, -78, -85, 8, 102, -122, -39, 96, 0, 0, 0, 0, 0, 7, -85, -98, 0, 0, 0, 0, 0, 51, 75, 83, 46, -78, -85, 8, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 30, 106, 115, 69, -64, -45, -24, -91, -54, -114, -114, -1, 114, 114, 85, -114], tunnelServerId=4, dataCenterId=18}
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:18:24] [Thread-17/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /[2602:fbaf:848:0:0:0:0:2]:43784 to claim client
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[00:18:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at /0.0.0.0:45754
+[00:18:24] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:18:24] [User Authenticator #5/INFO]: UUID of player Nam1234231 is 962c3a59-6dc2-3f02-b5c7-fa2fdb690650
+[00:18:25] [Server thread/INFO]: Nam1234231 joined the game
+[00:18:25] [Server thread/INFO]: Nam1234231[/127.0.0.1:55974] logged in with entity id 69729 at ([world]311.5566510965236, 65.0, 476.66325873334426)
+[00:19:00] [Server thread/INFO]: CrazyCat27 issued server command: /warp zv
+[00:19:26] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:19:32] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[00:19:32] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[00:19:32] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Dark Oak Log(Blocks.page5.items.185) for $192 with the buy screen.
+[00:19:37] [Server thread/INFO]: gladios1234 issued server command: /craft
+[00:19:40] [Async Chat Thread - #12/INFO]: [Not Secure] <CrazyCat27> tren dau m co j kia
+[00:19:46] [Async Chat Thread - #12/INFO]: [Not Secure] <~daddyofquysech> da den m lmj o day
+[00:19:53] [Async Chat Thread - #12/INFO]: [Not Secure] <~lamperlore> pha lê th ý mà
+[00:20:06] [Async Chat Thread - #13/INFO]: [Not Secure] <~daddyofquysech> ua :)))
+[00:20:15] [Async Chat Thread - #13/INFO]: [Not Secure] <~daddyofquysech> ngam vao pha le nma ban trung dau :)
+[00:20:16] [Async Chat Thread - #13/INFO]: [Not Secure] <~lamperlore> giap co gai m
+[00:20:24] [Async Chat Thread - #13/INFO]: [Not Secure] <~lamperlore> ak pha le trang tri ma
+[00:20:33] [Async Chat Thread - #13/INFO]: [Not Secure] <~lamperlore> co phai giap meo dau
+[00:20:33] [Async Chat Thread - #13/INFO]: [Not Secure] <~daddyofquysech> s trong m k giong mac giap :)
+[00:20:44] [Async Chat Thread - #13/INFO]: [Not Secure] <~lamperlore> t vua coi xong
+[00:21:00] [Async Chat Thread - #12/INFO]: [Not Secure] <~daddyofquysech> doi dc nh mau k :)
+[00:21:08] [Async Chat Thread - #12/INFO]: [Not Secure] <~daddyofquysech> lo chon cai mau xanh nay xau ia
+[00:21:21] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:21:22] [Async Chat Thread - #12/INFO]: [Not Secure] <~lamperlore> t cx lỡ chọn màu trắng h trông nó như cut
+[00:21:25] [Server thread/INFO]: Shop >> gladios1234 bought 1 x Grass Block(Blocks.page3.items.103) for $8 with the buy screen.
+[00:21:25] [Server thread/INFO]: Shop >> gladios1234 bought 1 x Grass Block(Blocks.page3.items.103) for $8 with the buy screen.
+[00:21:27] [Async Chat Thread - #12/INFO]: [Not Secure] <~lamperlore> hnhu ko xóa dc
+[00:21:40] [Async Chat Thread - #12/INFO]: [Not Secure] <~daddyofquysech> vl
+[00:21:42] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:21:45] [Async Chat Thread - #12/INFO]: [Not Secure] <~daddyofquysech> th xong -1 bo giap
+[00:22:21] [Async Chat Thread - #13/INFO]: [Not Secure] <~daddyofquysech> shader duoi nha m choi mat vl :)
+[00:22:25] [Async Chat Thread - #13/INFO]: [Not Secure] <~lamperlore> nhớ cái khu này hồi ae 1.17 ko h nó to như z đó :)
+[00:22:42] [Async Chat Thread - #13/INFO]: [Not Secure] <~lamperlore> hồi đấy bé tí
+[00:22:49] [Async Chat Thread - #13/INFO]: [Not Secure] <~daddyofquysech> ua cai ma m de tit long dat xong t voi hung mo k ra day a :)))
+[00:22:54] [Async Chat Thread - #12/INFO]: [Not Secure] <~lamperlore> ýe
+[00:22:58] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:23:05] [Server thread/INFO]: Shop >> gladios1234 bought 32 x Light(Miscellaneous.page3.items.7) for $3,200 with the buy screen.
+[00:24:00] [Async Chat Thread - #14/INFO]: [Not Secure] <~daddyofquysech> da den danh ng
+[00:24:05] [Server thread/INFO]: gladios1234 issued server command: /sellgui
+[00:24:11] [Async Chat Thread - #15/INFO]: [Not Secure] <~lamperlore> danh lai :)
+[00:24:14] [Server thread/INFO]: Shop >> ~phan2 sold 6x Dark Oak Planks(Blocks.page5.items.186), 40x Dark Oak Slab(Blocks.page5.items.187), 40x Chain(Decoration.page1.items.1) for $272.34 with the sell gui.
+[00:24:53] [Async Chat Thread - #15/INFO]: [Not Secure] <~daddyofquysech> ua dm
+[00:24:54] [Async Chat Thread - #15/INFO]: [Not Secure] <CrazyCat27> wtf
+[00:24:58] [Async Chat Thread - #15/INFO]: [Not Secure] <~daddyofquysech> nga vao dau cmnr
+[00:25:03] [Async Chat Thread - #15/INFO]: [Not Secure] <~lamperlore> ay yo
+[00:25:08] [Async Chat Thread - #15/INFO]: [Not Secure] <~lamperlore> restone cua bo
+[00:25:42] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:25:50] [Async Chat Thread - #14/INFO]: [Not Secure] <~lamperlore> xe mo dau roiii
+[00:28:38] [Async Chat Thread - #16/INFO]: [Not Secure] <CrazyCat27> moi tay qua
+[00:28:55] [Async Chat Thread - #16/INFO]: [Not Secure] <CrazyCat27> nhu nhim
+[00:29:04] [Async Chat Thread - #17/INFO]: [Not Secure] <~daddyofquysech> m nhu da den
+[00:29:43] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:29:43] [Async Chat Thread - #16/INFO]: [Not Secure] <~daddyofquysech> co thuoc kngh o shop k :)
+[00:29:47] [Async Chat Thread - #16/INFO]: [Not Secure] <~lamperlore> co
+[00:29:50] [Server thread/INFO]: Nam1234231 issued server command: /shop
+[00:29:51] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:29:59] [Async Chat Thread - #16/INFO]: [Not Secure] <~lamperlore> muc hinh yen cuoi y
+[00:30:08] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:30:49] [Server thread/INFO]: Shop >> DuyTramCam bought 17 x Experience Bottle(Miscellaneous.page1.items.11) for $1,834.98 with the buy screen.
+[00:31:05] [Async Chat Thread - #18/INFO]: [Not Secure] <~daddyofquysech> ???
+[00:31:18] [Async Chat Thread - #18/INFO]: [Not Secure] <~daddyofquysech> h con bug tien k the :))
+[00:31:18] [Async Chat Thread - #18/INFO]: [Not Secure] <~lamperlore> gi
+[00:31:23] [Async Chat Thread - #18/INFO]: [Not Secure] <~lamperlore> ko :)
+[00:31:24] [Async Chat Thread - #18/INFO]: [Not Secure] <~daddyofquysech> da den an trom
+[00:31:31] [Server thread/INFO]: DuyTramCam issued server command: /sell
+[00:32:33] [Async Chat Thread - #20/INFO]: [Not Secure] <~daddyofquysech> m lam cai tren dau m kieu j the
+[00:32:42] [Async Chat Thread - #20/INFO]: [Not Secure] <~lamperlore> lenh :))))
+[00:32:58] [Async Chat Thread - #20/INFO]: [Not Secure] <~daddyofquysech> co hinh concu k:))
+[00:33:10] [Async Chat Thread - #20/INFO]: [Not Secure] <~lamperlore> m bao mojang cho vao :)
+[00:33:43] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:33:49] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:33:54] [Server thread/INFO]: Shop >> gladios1234 bought 32 x Grass Block(Blocks.page3.items.103) for $256 with the buy screen.
+[00:33:55] [Server thread/INFO]: DuyTramCam issued server command: /sell
+[00:34:09] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:34:09] [Server thread/INFO]: Shop >> DuyTramCam sold 39 x Bamboo(Farming.page1.items.1) for $1.17 with the sell all command.
+[00:34:13] [Async Chat Thread - #22/INFO]: [Not Secure] <CrazyCat27> e shop co ban tnt k
+[00:34:17] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> t ban
+[00:34:22] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> co ma
+[00:34:25] [Server thread/INFO]: Nam1234231 issued server command: /sellgui
+[00:34:25] [Server thread/INFO]: CrazyCat27 issued server command: /shop
+[00:34:31] [Server thread/INFO]: Shop >> ~lamperlore sold 112x Stone(Blocks.page1.items.11), 1x Rotten Flesh(Mobs.page1.items.15), 27x Diorite(Blocks.page3.items.96), 2x Andesite(Blocks.page1.items.15), 5x Bone(Mobs.page1.items.4) for $34.12 with the sell gui.
+[00:34:49] [Async Chat Thread - #22/INFO]: [Not Secure] <CrazyCat27> dm dat the
+[00:34:50] [Server thread/INFO]: gladios1234 issued server command: /craft
+[00:34:52] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:35:10] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> dinh tnt lam gi the may cu
+[00:35:14] [Server thread/INFO]: Nam1234231 issued server command: /sellgui
+[00:35:16] [Async Chat Thread - #22/INFO]: [Not Secure] <CrazyCat27> pha nha m
+[00:35:18] [Server thread/INFO]: Shop >> ~lamperlore sold 128x Stone(Blocks.page1.items.11), 22x Diorite(Blocks.page3.items.96), 10x Andesite(Blocks.page1.items.15) for $28.80 with the sell gui.
+[00:35:20] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> shop ban tnt bnh the
+[00:35:20] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> cac
+[00:35:26] [Async Chat Thread - #22/INFO]: [Not Secure] <CrazyCat27> 100
+[00:36:01] [Server thread/INFO]: Nam1234231 issued server command: /sellgui
+[00:36:03] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:36:10] [Server thread/INFO]: Shop >> ~lamperlore sold 138x Stone(Blocks.page1.items.11), 7x Diorite(Blocks.page3.items.96), 2x Andesite(Blocks.page1.items.15) for $26.45 with the sell gui.
+[00:36:24] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> t ban 90
+[00:36:41] [Async Chat Thread - #22/INFO]: [Not Secure] <CrazyCat27> kmm t di mob lay tu che :)
+[00:36:46] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> :)
+[00:36:47] [Server thread/INFO]: Nam1234231 issued server command: /sellgui
+[00:36:52] [Server thread/INFO]: Shop >> ~lamperlore sold 117x Stone(Blocks.page1.items.11), 16x Diorite(Blocks.page3.items.96), 4x Cobblestone(Blocks.page2.items.54) for $24.61 with the sell gui.
+[00:36:53] [Server thread/INFO]: CrazyCat27 issued server command: /warp MobFarm
+[00:37:03] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:37:03] [Server thread/INFO]: Shop >> DuyTramCam sold 64 x Tnt(Blocks.page1.items.12) for $1,705.60 with the sell all command.
+[00:37:05] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> du
+[00:37:10] [Async Chat Thread - #23/INFO]: [Not Secure] <~daddyofquysech> tnt ban dc gia phet
+[00:37:16] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:37:22] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> a k ncct
+[00:37:26] [Server thread/INFO]: CrazyCat27 issued server command: /warp creeperfarm
+[00:37:32] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> ua ma chieu thg tuan cho t tan 500 000
+[00:37:43] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:37:47] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:37:58] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> vl hom kia t cho no 1tr xong no cho m me no 500k
+[00:38:10] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> :))))
+[00:38:12] [Async Chat Thread - #22/INFO]: [Not Secure] <CrazyCat27> cho t 1 tr di lam :)
+[00:38:20] [Server thread/INFO]: CrazyCat27 issued server command: /warp z
+[00:38:23] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> cho t 1 jack nua :)
+[00:38:26] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> dung co pha nha bo may
+[00:38:35] [Async Chat Thread - #22/INFO]: [Not Secure] <CrazyCat27> co ai pha dau :))
+[00:38:38] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> cac
+[00:38:40] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> m thay gi day k :)))
+[00:38:41] [Server thread/INFO]: Nam1234231 issued server command: /sellgui
+[00:38:43] [Server thread/INFO]: Shop >> ~lamperlore sold 78x Stone(Blocks.page1.items.11), 25x Andesite(Blocks.page1.items.15) for $18.54 with the sell gui.
+[00:38:43] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> cho hoac bay nha
+[00:39:15] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:39:20] [Async Chat Thread - #22/INFO]: [Not Secure] <CrazyCat27> dung im
+[00:39:44] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:39:48] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:39:56] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Brown Wool(Blocks.page5.items.225) for $1,881.60 with the buy screen.
+[00:39:57] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> sao the
+[00:40:10] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> co cai sach nao enchant dc tat ca 1 luot k :)))
+[00:40:16] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> vl :)
+[00:40:21] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> mua sach trong shop dc ma :)
+[00:40:28] [Server thread/INFO]: CrazyCat27 issued server command: /shop
+[00:40:30] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> giap cua t con k hien enchant gi r :)
+[00:40:38] [Server thread/INFO]: CrazyCat27 issued server command: /shop
+[00:40:46] [Server thread/INFO]: Shop >> CrazyCat27 bought 1 x Splash Potion(Potions.page1.items.45) for $31.13 with the buy screen.
+[00:40:48] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:40:53] [Server thread/INFO]: Shop >> CrazyCat27 bought 1 x Potion(Potions.page1.items.31) for $42.65 with the buy screen.
+[00:40:55] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:41:06] [Server thread/INFO]: Shop >> CrazyCat27 bought 1 x Splash Potion(Potions.page2.items.50) for $27.22 with the buy screen.
+[00:41:07] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:41:09] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> nhung s trong giap m co enchant ma nhe
+[00:41:09] [Server thread/INFO]: Shop >> CrazyCat27 bought 1 x Splash Potion(Potions.page2.items.54) for $34.50 with the buy screen.
+[00:41:10] [Server thread/INFO]: gladios1234 issued server command: /sellgui
+[00:41:17] [Async Chat Thread - #22/INFO]: [Not Secure] <~lamperlore> anh anh
+[00:41:19] [Server thread/INFO]: Shop >> CrazyCat27 bought 1 x Splash Potion(Potions.page2.items.57) for $37.91 with the buy screen.
+[00:41:20] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:41:23] [Server thread/INFO]: Shop >> CrazyCat27 bought 1 x Splash Potion(Potions.page2.items.66) for $61.64 with the buy screen.
+[00:41:27] [Server thread/INFO]: Shop >> gladios1234 bought 1 x Brown Wool(Blocks.page5.items.225) for $29.40 with the buy screen.
+[00:41:40] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> co enchant nma n k ghi t enchant cgi :))
+[00:41:44] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:41:44] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> wtf
+[00:41:46] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> 0 dame
+[00:42:03] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> +1000 sat thuong tinh than
+[00:42:09] [Async Chat Thread - #22/INFO]: [Not Secure] <~daddyofquysech> den bu cho bo m thg da den
+[00:42:24] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:42:45] [Server thread/INFO]: Shop >> gladios1234 bought 64 x White Wool(Blocks.page6.items.237) for $1,881.60 with the buy screen.
+[00:42:50] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Brown Wool(Blocks.page5.items.225) for $1,881.60 with the buy screen.
+[00:43:13] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:43:13] [Server thread/INFO]: Shop >> DuyTramCam sold 30 x Phantom Membrane(Mobs.page1.items.12) for $938.69 with the sell all command.
+[00:43:25] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:43:25] [Server thread/INFO]: Shop >> DuyTramCam sold 1 x Potion(Potions.page1.items.31) for $10.67 with the sell all command.
+[00:43:31] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:43:47] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:43:47] [Server thread/INFO]: Shop >> DuyTramCam sold 57 x Leather(Farming.page1.items.15) for $478.80 with the sell all command.
+[00:43:55] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:43:55] [Server thread/INFO]: Shop >> DuyTramCam sold 64 x Leather(Farming.page1.items.15) for $537.60 with the sell all command.
+[00:43:58] [Async Chat Thread - #24/INFO]: [Not Secure] <CrazyCat27> dua tien day
+[00:44:01] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:44:01] [Server thread/INFO]: Shop >> DuyTramCam sold 64 x Leather(Farming.page1.items.15) for $537.60 with the sell all command.
+[00:44:07] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:44:07] [Server thread/INFO]: Shop >> DuyTramCam sold 64 x Leather(Farming.page1.items.15) for $537.60 with the sell all command.
+[00:44:07] [Async Chat Thread - #24/INFO]: [Not Secure] <~lamperlore> xin ma nhu an cuop
+[00:44:22] [Async Chat Thread - #24/INFO]: [Not Secure] <CrazyCat27> thi bon t cuop that ma
+[00:44:29] [Async Chat Thread - #24/INFO]: [Not Secure] <~daddyofquysech> 1 dua 2 m bay nha
+[00:44:36] [Server thread/INFO]: gladios1234 issued server command: /shop
+[00:44:41] [Async Chat Thread - #24/INFO]: [Not Secure] <~daddyofquysech> wtf da den
+[00:44:48] [Server thread/INFO]: Shop >> gladios1234 bought 64 x Brown Wool(Blocks.page5.items.225) for $1,881.60 with the buy screen.
+[00:44:51] [Async Chat Thread - #25/INFO]: [Not Secure] <~daddyofquysech> o da den bi cau
+[00:45:01] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:45:31] [Server thread/INFO]: Shop >> DuyTramCam bought 1 x Carrot On A Stick(Miscellaneous.page1.items.5) for $6.47 with the buy screen.
+[00:45:40] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:45:44] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:45:47] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[00:45:47] [Server thread/INFO]: gladios1234 lost connection: Disconnected
+[00:45:48] [Server thread/INFO]: gladios1234 left the game
+[00:45:48] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.142.194:12964, peerAddr=1.55.7.147:4681, claimAddress=[2602:fbaf:0848:0000:0000:0000:0000:0002]:43784, claimToken=[44, 0, 60, -47, 25, -114, -62, 50, -92, 1, 55, 7, -109, 18, 73, -126, -104, 61, -124, -85, 8, 102, -122, -33, -52, 0, 0, 0, 0, 0, 7, -85, -98, 0, 0, 0, 0, 0, 51, 75, 83, 27, -124, -85, 8, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -22, -21, 124, 116, -66, -8, 88, 105, -44, 100, 29, -43, -7, -29, 84, -13], tunnelServerId=1, dataCenterId=18}
+[00:45:48] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:45:48] [Thread-17/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /[2602:fbaf:848:0:0:0:0:2]:43784 to claim client
+[00:45:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:45:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:45:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:45:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:45:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[00:45:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at /0.0.0.0:45754
+[00:45:48] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:45:50] [Server thread/INFO]: Shop >> DuyTramCam bought 2 x Cherry Planks(Blocks.page2.items.47) for $1.58 with the buy screen.
+[00:46:07] [Async Chat Thread - #26/INFO]: [Not Secure] <~daddyofquysech> m kco ban che tao a lam
+[00:46:12] [Async Chat Thread - #26/INFO]: [Not Secure] <~lamperlore> ko :)
+[00:46:17] [Async Chat Thread - #26/INFO]: [Not Secure] <~lamperlore> go /craft la dc ma
+[00:46:18] [Async Chat Thread - #26/INFO]: [Not Secure] <CrazyCat27> dua tien day ko tk zuy cho bay nha m day
+[00:46:32] [Async Chat Thread - #26/INFO]: [Not Secure] <~lamperlore> thg duy la cap duoi m ak
+[00:46:39] [Server thread/INFO]: DuyTramCam issued server command: /sell hand
+[00:46:39] [Server thread/INFO]: Shop >> DuyTramCam sold 1 x Carrot On A Stick(Miscellaneous.page1.items.5) for $1.62 with the sell all command.
+[00:46:41] [Server thread/INFO]: CrazyCat27 issued server command: /craft
+[00:48:07] [Async Chat Thread - #28/INFO]: [Not Secure] <~daddyofquysech> da den danh dan
+[00:48:10] [Async Chat Thread - #28/INFO]: [Not Secure] <CrazyCat27> chay dc r
+[00:48:14] [Async Chat Thread - #28/INFO]: [Not Secure] <CrazyCat27> dau r
+[00:48:21] [Async Chat Thread - #28/INFO]: [Not Secure] <~daddyofquysech> doan xem
+[00:48:31] [Async Chat Thread - #28/INFO]: [Not Secure] <~daddyofquysech> do m tim dc t
+[00:48:34] [Async Chat Thread - #28/INFO]: [Not Secure] <~daddyofquysech> da dennnn
+[00:49:17] [Async Chat Thread - #29/INFO]: [Not Secure] <~lamperlore> cm dau r :)
+[00:49:20] [Async Chat Thread - #28/INFO]: [Not Secure] <~daddyofquysech> m vua bay qua t a da den
+[00:49:39] [Server thread/INFO]: CrazyCat27 issued server command: /warp newvillage
+[00:49:45] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:49:49] [Server thread/INFO]: DuyTramCam issued server command: /warp farmvang
+[00:50:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[00:50:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[00:51:09] [Server thread/INFO]: Nam1234231 issued server command: /gamemode spectator
+[00:51:18] [Server thread/INFO]: Nam1234231 issued server command: /tp @s DuyTramCam
+[00:51:18] [Server thread/INFO]: [Nam1234231: Teleported Nam1234231 to DuyTramCam]
+[00:51:22] [Async Chat Thread - #30/INFO]: [Not Secure] <~daddyofquysech> :)
+[00:51:28] [Async Chat Thread - #30/INFO]: [Not Secure] <~lamperlore> :)
+[00:51:38] [Async Chat Thread - #30/INFO]: [Not Secure] <~lamperlore> dang dinh den day farm
+[00:51:45] [Async Chat Thread - #30/INFO]: [Not Secure] <~daddyofquysech> t sua giap :))
+[00:51:57] [Server thread/INFO]: CrazyCat27 issued server command: /warp endfarm
+[00:51:59] [Async Chat Thread - #31/INFO]: [Not Secure] <~lamperlore> ok
+[00:52:26] [Server thread/INFO]: CrazyCat27 issued server command: /shop
+[00:52:31] [Server thread/INFO]: Shop >> CrazyCat27 sold 111 x Ender Pearl(Mobs.page1.items.5) for $194.25 with the sell screen.
+[00:52:37] [Async Chat Thread - #31/INFO]: [Not Secure] <~daddyofquysech> do m tim dc t da den
+[00:52:46] [Server thread/INFO]: CrazyCat27 issued server command: /warp farmvang
+[00:53:06] [Server thread/INFO]: CrazyCat27 issued server command: /warp farmvàng
+[00:53:14] [Server thread/INFO]: Nam1234231 issued server command: /tps
+[00:53:27] [Server thread/INFO]: [Graves] Debug: Placing grave block for 83ff8f03-7290-4d91-873d-e17ecca89a38 at world_nether, 517.5x, 128.5y, -150.5z
+[00:53:27] [Server thread/INFO]: DuyTramCam was doomed to fall
+[00:53:28] [Async Chat Thread - #31/INFO]: [Not Secure] <CrazyCat27> bo m tim dc m r
+[00:53:30] [Async Chat Thread - #31/INFO]: [Not Secure] <~lamperlore> :)
+[00:53:30] [Async Chat Thread - #31/INFO]: [Not Secure] <~daddyofquysech> :)
+[00:53:32] [Async Chat Thread - #30/INFO]: [Not Secure] <CrazyCat27> :)))
+[00:53:39] [Server thread/INFO]: DuyTramCam issued server command: /warp farmvang
+[00:53:45] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:53:46] [Async Chat Thread - #30/INFO]: [Not Secure] <~daddyofquysech> xuong kieu j :)))
+[00:53:55] [Async Chat Thread - #30/INFO]: [Not Secure] <~daddyofquysech> sos
+[00:54:09] [Server thread/INFO]: DuyTramCam issued server command: /warp AFKhoglinfarm
+[00:54:12] [Async Chat Thread - #30/INFO]: [Not Secure] <~lamperlore> tuan bao ae co canh nen no luoi xay dg xuong
+[00:54:12] [Async Chat Thread - #30/INFO]: [Not Secure] <CrazyCat27> day
+[00:54:19] [Async Chat Thread - #30/INFO]: [Not Secure] <CrazyCat27> dau r
+[00:54:22] [Server thread/INFO]: [Graves] Debug: Grave not created for DuyTramCam because they had an empty inventory
+[00:54:22] [Server thread/INFO]: DuyTramCam fell off a ladder
+[00:54:24] [Async Chat Thread - #30/INFO]: [Not Secure] <CrazyCat27> cho m cai nay :)
+[00:54:26] [Async Chat Thread - #30/INFO]: [Not Secure] <~daddyofquysech> :))))
+[00:54:33] [Server thread/INFO]: DuyTramCam issued server command: /warp afkfarmvang
+[00:54:37] [Async Chat Thread - #30/INFO]: [Not Secure] <~lamperlore> xo nc trong nether ak thong minh lam
+[00:54:48] [Async Chat Thread - #30/INFO]: [Not Secure] <CrazyCat27> the t ms cho no :)
+[00:54:52] [Server thread/INFO]: DuyTramCam issued server command: /warp AFKhoglinfarm
+[00:54:53] [Async Chat Thread - #30/INFO]: [Not Secure] <~lamperlore> mua totem ma xuong duy ei :)
+[00:55:01] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:55:02] [Async Chat Thread - #30/INFO]: [Not Secure] <CrazyCat27> tk zuy dau r
+[00:55:05] [Server thread/INFO]: DuyTramCam issued server command: /shop
+[00:55:12] [Server thread/INFO]: Shop >> DuyTramCam bought 1 x Totem Of Undying(Miscellaneous.page1.items.36) for $100 with the buy screen.
+[00:55:18] [Server thread/INFO]: DuyTramCam issued server command: /warp farmvàng
+[00:55:31] [Async Chat Thread - #30/INFO]: [Not Secure] <CrazyCat27> day
+[00:55:36] [Async Chat Thread - #30/INFO]: [Not Secure] <CrazyCat27> cai nay
+[00:55:37] [Async Chat Thread - #30/INFO]: [Not Secure] <~lamperlore> day ne duy
+[00:55:46] [Server thread/INFO]: [Graves] Debug: Replacing grave block for ea5a58a5-d7e4-4dc2-89a2-b6a9a4914863 at world_nether, 515.5x, 128.5y, -152.5z
+[00:55:46] [Server thread/INFO]: [Graves] Debug: Removing hologram for grave ea5a58a5-d7e4-4dc2-89a2-b6a9a4914863
+[00:55:46] [Server thread/INFO]: [Graves] Debug: Removing hologram for grave ea5a58a5-d7e4-4dc2-89a2-b6a9a4914863
+[00:55:46] [Server thread/INFO]: [Graves] Debug: Removing grave ea5a58a5-d7e4-4dc2-89a2-b6a9a4914863
+[00:55:46] [Server thread/INFO]: [Graves] Debug: Grave ea5a58a5-d7e4-4dc2-89a2-b6a9a4914863 broken
+[00:55:46] [Server thread/INFO]: [Graves] Debug: Zombie type .BleakLake35911's Zombie spawned for grave ea5a58a5-d7e4-4dc2-89a2-b6a9a4914863
+[00:55:52] [Server thread/INFO]: [Graves] Debug: Replacing grave block for 93c64781-d1b6-4543-82f3-435412784cf1 at world_nether, 515.5x, 128.5y, -154.5z
+[00:55:52] [Server thread/INFO]: [Graves] Debug: Removing hologram for grave 93c64781-d1b6-4543-82f3-435412784cf1
+[00:55:52] [Server thread/INFO]: [Graves] Debug: Removing hologram for grave 93c64781-d1b6-4543-82f3-435412784cf1
+[00:55:52] [Server thread/INFO]: [Graves] Debug: Removing grave 93c64781-d1b6-4543-82f3-435412784cf1
+[00:55:52] [Server thread/INFO]: [Graves] Debug: Grave 93c64781-d1b6-4543-82f3-435412784cf1 broken
+[00:55:52] [Server thread/INFO]: [Graves] Debug: Zombie type SIUUUUUUUUUUUUUU's Zombie spawned for grave 93c64781-d1b6-4543-82f3-435412784cf1
+[00:55:54] [Async Chat Thread - #31/INFO]: [Not Secure] <CrazyCat27> lo danh cai tk be roi luon :)
+[00:56:00] [Server thread/INFO]: Nam1234231 issued server command: /ec
+[00:56:02] [Async Chat Thread - #31/INFO]: [Not Secure] <~daddyofquysech> :)
+[00:56:06] [Async Chat Thread - #31/INFO]: [Not Secure] <~daddyofquysech> truot chan :)
+[00:56:17] [Server thread/INFO]: [Graves] Debug: Replacing grave block for 3d4b02a7-b66b-4cc5-af79-51ba2f0de763 at world_nether, 529.5x, 128.5y, -140.5z
+[00:56:17] [Server thread/INFO]: [Graves] Debug: Removing hologram for grave 3d4b02a7-b66b-4cc5-af79-51ba2f0de763
+[00:56:17] [Server thread/INFO]: [Graves] Debug: Removing hologram for grave 3d4b02a7-b66b-4cc5-af79-51ba2f0de763
+[00:56:17] [Server thread/INFO]: [Graves] Debug: Removing grave 3d4b02a7-b66b-4cc5-af79-51ba2f0de763
+[00:56:17] [Server thread/INFO]: [Graves] Debug: Grave 3d4b02a7-b66b-4cc5-af79-51ba2f0de763 broken
+[00:56:17] [Server thread/INFO]: [Graves] Debug: Zombie type .BleakLake35911's Zombie spawned for grave 3d4b02a7-b66b-4cc5-af79-51ba2f0de763
+[00:56:38] [Server thread/INFO]: [Graves] Debug: Replacing grave block for 83ff8f03-7290-4d91-873d-e17ecca89a38 at world_nether, 517.5x, 128.5y, -150.5z
+[00:56:38] [Server thread/INFO]: [Graves] Debug: Removing grave 83ff8f03-7290-4d91-873d-e17ecca89a38
+[00:56:38] [Server thread/INFO]: [Graves] Debug: Grave 83ff8f03-7290-4d91-873d-e17ecca89a38 broken
+[00:56:38] [Server thread/INFO]: [Graves] Debug: Zombie type DuyTramCam's Zombie spawned for grave 83ff8f03-7290-4d91-873d-e17ecca89a38
+[00:57:07] [Server thread/INFO]: Nam1234231 issued server command: /warp farmvang
+[00:57:20] [Server thread/INFO]: CrazyCat27 issued server command: /warp endfarm
+[00:57:38] [Async Chat Thread - #32/INFO]: [Not Secure] <~daddyofquysech> cm dau het r
+[00:57:46] [Async Chat Thread - #32/INFO]: [Not Secure] <CrazyCat27> end farm
+[00:57:46] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:57:52] [Async Chat Thread - #32/INFO]: [Not Secure] <~lamperlore> cm muon danh nhau thoai mai thi warp spawn y dung danh nhau cho khac pha het do :)
+[00:57:54] [Server thread/INFO]: DuyTramCam issued server command: /warp endcity2
+[00:57:58] [Server thread/INFO]: Nam1234231 issued server command: /warp spawn
+[00:58:30] [Async Chat Thread - #33/INFO]: [Not Secure] <CrazyCat27> danh nhau tk nao cx may stack tao vang enchant danh bao h ms chet
+[00:58:39] [Server thread/INFO]: DuyTramCam issued server command: /warp endfarm
+[00:58:49] [Server thread/INFO]: Nam1234231 issued server command: /warp spawn
+[00:58:54] [Async Chat Thread - #33/INFO]: [Not Secure] <~daddyofquysech> k the chet
+[00:59:07] [Async Chat Thread - #33/INFO]: [Not Secure] <~lamperlore> nhung ko pha do xung quanh :)
+[00:59:16] [Async Chat Thread - #33/INFO]: [Not Secure] <~lamperlore> spawn ko pha dc nen thoai mai
+[00:59:26] [Async Chat Thread - #33/INFO]: [Not Secure] <CrazyCat27> bon t oha dau chi lo tay thoi
+[00:59:33] [Async Chat Thread - #33/INFO]: [Not Secure] <~lamperlore> cac
+[00:59:49] [Server thread/INFO]: CrazyCat27 issued server command: /shop
+[00:59:51] [Server thread/INFO]: Named entity EntityEndermite['zom'/80194, uuid='191abc9c-f1df-4b74-bb5b-8a7084ae0911', l='ServerLevel[world_the_end]', x=1.65, y=45.95, z=300.38, cpos=[0, 18], tl=650266, v=true] died: zom was slain by Lvl 5 | Enderman | ❤ 46/46
+[00:59:53] [Server thread/INFO]: Shop >> CrazyCat27 sold 112 x Ender Pearl(Mobs.page1.items.5) for $196 with the sell screen.
+[00:59:54] [Server thread/INFO]: Shop >> CrazyCat27 sold 22 x Ender Pearl(Mobs.page1.items.5) for $38.50 with the sell screen.
+[01:00:03] [Server thread/INFO]: DuyTramCam issued server command: /warp zc
+[01:00:05] [Server thread/INFO]: Nam1234231 issued server command: /minecraft:setworldspawn 345 63 -48
+[01:00:05] [Server thread/INFO]: [Nam1234231: Set the world spawn point to 345, 63, -48 [0.0]]
+[01:00:06] [Server thread/INFO]: CrazyCat27 issued server command: /warp newvillage
+[01:00:14] [Server thread/INFO]: DuyTramCam issued server command: /warp zv
+[01:00:23] [Server thread/INFO]: Nam1234231 issued server command: /home
+[01:00:44] [Server thread/INFO]: Nam1234231 issued server command: /warp spawn
+[01:01:18] [Async Chat Thread - #34/INFO]: [Not Secure] <~daddyofquysech> t off day :)
+[01:01:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[01:01:20] [Server thread/INFO]: DuyTramCam lost connection: Disconnected
+[01:01:20] [Server thread/INFO]: DuyTramCam left the game
+[01:01:46] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:02:08] [Server thread/INFO]: Nam1234231 issued server command: /skills
+[01:03:31] [Async Chat Thread - #36/INFO]: [Not Secure] <~lamperlore> mịa t mệt rồi bye nhá :)
+[01:03:39] [nioEventLoopGroup-2-2/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[01:03:39] [Server thread/INFO]: Nam1234231 lost connection: Disconnected
+[01:03:39] [Server thread/INFO]: Nam1234231 left the game
+[01:05:47] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:09:47] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:10:36] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[01:10:37] [Server thread/INFO]: CrazyCat27 lost connection: Disconnected
+[01:10:37] [Server thread/INFO]: CrazyCat27 left the game
+[01:10:37] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.142.194:12964, peerAddr=58.187.248.247:16830, claimAddress=[2602:fbaf:0848:0000:0000:0000:0000:0002]:43784, claimToken=[44, 0, 60, -47, 25, -114, -62, 50, -92, 58, -69, -8, -9, 65, -66, -84, 116, -16, -44, -85, 8, 102, -122, -27, -99, 0, 0, 0, 0, 0, 7, -85, -98, 0, 0, 0, 0, 0, 51, 75, 83, 124, -44, -85, 8, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, -52, 85, 125, 33, 127, -127, 88, 12, 88, 81, -3, -49, 1, 27, 125, 122], tunnelServerId=4, dataCenterId=18}
+[01:10:37] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[01:10:37] [Thread-17/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /[2602:fbaf:848:0:0:0:0:2]:43784 to claim client
+[01:10:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[01:10:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[01:10:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[01:10:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[01:10:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[01:10:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at /0.0.0.0:45754
+[01:10:37] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[01:13:49] [Thread-17/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:17:05] [Server thread/INFO]: Stopping the server
+[01:17:05] [Server thread/INFO]: Stopping server
+[01:17:05] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.4.6
+[01:17:05] [Server thread/INFO]: [MyDog] Disabling MyDog v0.2.2
+[01:17:05] [Server thread/INFO]: [MyDog] Loaded 9 dogs.
+[01:17:05] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[01:17:05] [Server thread/INFO]: [Graves] Disabling Graves v4.9
+[01:17:05] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[01:17:05] [Server thread/INFO]: [AuraMobs] Disabling AuraMobs v2.0.1
+[01:17:05] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[01:17:05] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.6
+[01:17:05] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:17:05] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 6.6
+[01:17:05] [Server thread/INFO]: [Multiverse-SignPortals] Disabling Multiverse-SignPortals v4.2.2
+[01:17:05] [Server thread/INFO]: [Multiverse-SignPortals] - Disabled
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.3.25 (build 89)
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 2ms!
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module EntityLimiter in 1ms.
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module WorldCleaner in 1ms.
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomAi in 1ms.
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module LagMonitor in 0ms.
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module RedstoneLimiter in 1ms.
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomVehicles in 0ms.
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module InstantLeafDecay in 0ms.
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 5ms!
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[01:17:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 1ms!
+[01:17:05] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.10.0
+[01:17:05] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[01:17:05] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[01:17:05] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.3-SNAPSHOT
+[01:17:05] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:17:05] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:17:05] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.0.4
+[01:17:06] [WebSocketConnectReadThread-205/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:17:06] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
+[01:17:06] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[01:17:06] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[01:17:06] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[01:17:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.0+6678-55745ad
+[01:17:06] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[01:17:06] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[01:17:06] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.121
+[01:17:06] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:17:06] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:17:06] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:17:06] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.10.0
+[01:17:06] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[01:17:06] [Server thread/INFO]: Saving players
+[01:17:06] [Server thread/INFO]: Saving worlds
+[01:17:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:17:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:17:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:17:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:17:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 98 entity chunks, 0 poi chunks in world 'world' in 0.08s
+[01:17:07] [Thread-17/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
+[01:17:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:17:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:17:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:17:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:17:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:17:09] [Server thread/INFO]: [ChunkHolderManager] Saved 43 block chunks, 225 entity chunks, 0 poi chunks in world 'world_nether' in 0.56s
+[01:17:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:17:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:17:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:17:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:17:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:17:11] [Server thread/INFO]: [ChunkHolderManager] Saved 326 block chunks, 31 entity chunks, 0 poi chunks in world 'world_the_end' in 1.34s
+[01:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:17:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[flatroom]'/minecraft:flatroom
+[01:17:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'flatroom'
+[01:17:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'flatroom'
+[01:17:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'flatroom'
+[01:17:13] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 11 entity chunks, 0 poi chunks in world 'flatroom' in 0.01s
+[01:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (flatroom): All chunks are saved
+[01:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:17:13] [Server thread/INFO]: Saving usercache.json
+[01:17:13] [Server thread/INFO]: Flushing Chunk IO
+[01:17:13] [Server thread/INFO]: Closing Thread Pool
+[01:17:13] [Server thread/INFO]: Closing Server

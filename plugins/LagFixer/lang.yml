@@ -44,18 +44,18 @@ messages:
       '5': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
         <color:gray>seconds, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
         <color:gray>cretaures will be removed!
-      '4': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
-        <color:gray>seconds, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
-        <color:gray>cretaures will be removed!
-      '3': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
-        <color:gray>seconds, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
-        <color:gray>cretaures will be removed!
-      '2': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
-        <color:gray>seconds, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
-        <color:gray>cretaures will be removed!
-      '1': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
-        <color:gray>second, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
-        <color:gray>cretaures will be removed!
+      # '4': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
+      # <color:gray>seconds, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
+      # <color:gray>cretaures will be removed!
+      # '3': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
+      # <color:gray>seconds, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
+      # <color:gray>cretaures will be removed!
+      # '2': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
+      # <color:gray>seconds, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
+      # <color:gray>cretaures will be removed!
+      # '1': <gradient:#ff3c00:#ffff00>Warning!</gradient> <color:gray>In <color:#ff8800><remaining>
+      # <color:gray>second, <color:#ff8800><items>x <color:gray>items and <color:#ff8800><creatures>x
+      # <color:gray>cretaures will be removed!
       '0': <color:gray>Successfully removed <color:#ff8800><items>x <color:gray>items
         and <color:#ff8800><creatures>x <color:gray>creatures!
     clearitems:

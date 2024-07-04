@@ -215,7 +215,7 @@ modules:
       - world_the_end
       - world_nether
     values:
-      interval: 240 # in seconds, countdown to run WorldCleaner
+      interval: 600 # in seconds, countdown to run WorldCleaner
       alerts: true # you can find in lang.yml
       
       # command /lagfixer clearitems
