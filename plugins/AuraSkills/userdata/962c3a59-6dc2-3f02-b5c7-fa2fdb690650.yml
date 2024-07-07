@@ -5,7 +5,7 @@ skills:
     xp: 19499.99999999982
   auraskills/foraging:
     level: 30
-    xp: 49977.279999996164
+    xp: 49977.919999996164
   auraskills/mining:
     level: 30
     xp: 25564.639999991752
@@ -41,7 +41,7 @@ skills:
     xp: 79054.52711508288
   auraskills/healing:
     level: 33
-    xp: 4757.599999999977
+    xp: 5607.599999999977
   auraskills/forging:
     level: 17
     xp: 14711.4
@@ -53,7 +53,7 @@ stat_modifiers:
   '0':
     name: AbilityModifier-WiseEffect
     stat: auraskills/wisdom
-    value: 10.0
+    value: 15.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -76,9 +76,9 @@ trait_modifiers:
     trait: auraskills/farming_luck
     value: 35.0
 ability_data:
-  auraskills/first_strike:
-    counter: 623
   auraskills/xp_convert:
-    xp: 4.354686843775312
+    xp: 14.994686843775298
   auraskills/charged_shot:
     enabled: true
+  auraskills/first_strike:
+    counter: 623

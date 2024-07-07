@@ -11,29 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1720116014394
+  lastteleport: 1720289362947
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1720116080440
-  login: 1720111846477
-money: '458942.8330310000027964'
+  logout: 1720289417943
+  login: 1720284016940
+money: '236653.3930310000027964'
 last-account-name: DuyTramCam
 logoutlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 23.009792588649592
-  y: 73.0
-  z: 324.4877954195695
-  yaw: -6.41845703125
-  pitch: 3.9000611305236816
+  x: 89.94297839819772
+  y: 70.0
+  z: 358.9554986540067
+  yaw: -85.0433349609375
+  pitch: 7.658046245574951
 lastlocation:
-  world: 6070b197-d770-4d72-a000-8f9c12ec0f94
-  world-name: world_the_end
-  x: 25.53725282136751
-  y: 57.0
-  z: 61.56578304088633
-  yaw: -82.715087890625
-  pitch: 9.750067710876465
+  world: 7ec283ff-b928-46e9-b242-4dd1165f6677
+  world-name: world_nether
+  x: 515.5427007342598
+  y: 250.0
+  z: -152.17317284167703
+  yaw: 0.12810160219669342
+  pitch: 63.59998321533203
 nickname: daddyofquysech

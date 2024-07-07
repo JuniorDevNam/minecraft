@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1720110152401
+  lastteleport: 1720285003711
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1720115148002
-  login: 1720109635574
-money: '453583.9100000000017880'
+  logout: 1720285738467
+  login: 1720281944348
+money: '410529.7000000000018040'
 last-account-name: gladios1234
 lastlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 4013.2844879615504
-  y: 94.0
-  z: -921.5281843688447
-  yaw: 88.986083984375
-  pitch: 5.844629764556885
+  x: 3112.0815776379054
+  y: 54.0
+  z: 2998.0386827520524
+  yaw: 102.808837890625
+  pitch: 16.84787940979004
 nickname: phan2
 logoutlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: -6798.119460401638
-  y: 83.0
-  z: 7068.426550716897
-  yaw: -169.6006622314453
-  pitch: 18.984397888183594
+  x: -6823.3420155377335
+  y: 78.0
+  z: 7070.664650457929
+  yaw: 179.980712890625
+  pitch: -8.62188720703125
 homes:
   home:
     world: 6000fa1e-792c-48f6-9092-83aa876e0187

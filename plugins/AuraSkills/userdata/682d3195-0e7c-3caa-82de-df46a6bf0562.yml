@@ -2,34 +2,34 @@ uuid: 682d3195-0e7c-3caa-82de-df46a6bf0562
 skills:
   auraskills/farming:
     level: 8
-    xp: 1395.0400000000127
+    xp: 2386.240000000009
   auraskills/foraging:
     level: 6
-    xp: 381.7000000000152
+    xp: 383.9000000000152
   auraskills/mining:
     level: 9
-    xp: 3009.7999999990657
+    xp: 3015.3199999990607
   auraskills/fishing:
     level: 11
     xp: 9845.5
   auraskills/excavation:
     level: 6
-    xp: 1061.1400000000249
+    xp: 1063.560000000025
   auraskills/archery:
     level: 8
     xp: 1225.9360000000013
   auraskills/defense:
     level: 17
-    xp: 5723.778083234917
+    xp: 7085.710046487938
   auraskills/fighting:
     level: 14
-    xp: 7720.389999999591
+    xp: 7828.497999999596
   auraskills/endurance:
     level: 11
-    xp: 6680.662454000002
+    xp: 7097.618138000003
   auraskills/agility:
     level: 8
-    xp: 3849.303324127201
+    xp: 3976.5033241272013
   auraskills/alchemy:
     level: 2
     xp: 125.0
@@ -41,7 +41,7 @@ skills:
     xp: 234.83013191446662
   auraskills/healing:
     level: 11
-    xp: 1654.4000000000015
+    xp: 1942.4000000000015
   auraskills/forging:
     level: 10
     xp: 3687.2999999999993
@@ -49,11 +49,6 @@ mana: 60.0
 locale: en
 action_bar:
   idle: true
-stat_modifiers:
-  '0':
-    name: AbilityModifier-EnchantedStrength
-    stat: auraskills/strength
-    value: 3.5
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -76,10 +71,10 @@ trait_modifiers:
     trait: auraskills/farming_luck
     value: 15.0
 ability_data:
-  auraskills/first_strike:
-    counter: 212
-  auraskills/xp_convert:
-    xp: 15.049993305298717
   auraskills/charged_shot:
     toggle_cooldown: 0
     enabled: true
+  auraskills/xp_convert:
+    xp: 18.585640558319977
+  auraskills/first_strike:
+    counter: 213
