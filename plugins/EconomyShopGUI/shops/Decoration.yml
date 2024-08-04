@@ -587,3 +587,21 @@ pages:
         material: WILD_ARMOR_TRIM_SMITHING_TEMPLATE
         buy: 197.18
         sell: 49.3
+  page5:
+    items:
+      '1':
+        material: SMALL_AMETHYST_BUD
+        buy: 2.0
+        sell: 2.0
+      '2':
+        material: MEDIUM_AMETHYST_BUD
+        buy: 2.0
+        sell: 2.0
+      '3':
+        material: LARGE_AMETHYST_BUD
+        buy: 2.0
+        sell: 2.0
+      '4':
+        material: AMETHYST_CLUSTER
+        buy: 2.0
+        sell: 2.0

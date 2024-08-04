@@ -1,198 +1,96 @@
-[18:03:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:04:02] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
-com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Remote host terminated the handshake
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:108) ~[authlib-6.0.52.jar:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-6.0.52.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.52.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.52.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
-	at sun.security.ssl.SSLSocketImpl.handleEOF(SSLSocketImpl.java:1714) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1514) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1675) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1599) ~[?:?]
-	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:84) ~[authlib-6.0.52.jar:?]
-	... 9 more
-	Suppressed: java.net.SocketException: Broken pipe
-		at sun.nio.ch.SocketDispatcher.write0(Native Method) ~[?:?]
-		at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62) ~[?:?]
-		at sun.nio.ch.NioSocketImpl.tryWrite(NioSocketImpl.java:394) ~[?:?]
-		at sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:410) ~[?:?]
-		at sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:440) ~[?:?]
-		at sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:819) ~[?:?]
-		at java.net.Socket$SocketOutputStream.write(Socket.java:1195) ~[?:?]
-		at sun.security.ssl.SSLSocketOutputRecord.encodeAlert(SSLSocketOutputRecord.java:81) ~[?:?]
-		at sun.security.ssl.TransportContext.fatal(TransportContext.java:414) ~[?:?]
-		at sun.security.ssl.TransportContext.fatal(TransportContext.java:321) ~[?:?]
-		at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:467) ~[?:?]
-		at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
-		at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
-		at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
-		at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1675) ~[?:?]
-		at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1599) ~[?:?]
-		at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
-		at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
-		at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:84) ~[authlib-6.0.52.jar:?]
-		at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-6.0.52.jar:?]
-		at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.52.jar:?]
-		at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.52.jar:?]
-		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
-		at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
-		at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
-		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-		at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.io.EOFException: SSL peer shut down incorrectly
-	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:494) ~[?:?]
-	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
-	at sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
-	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1675) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1599) ~[?:?]
-	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:84) ~[authlib-6.0.52.jar:?]
-	... 9 more
-[18:05:18] [ServerMain/INFO]: Loaded 1193 recipes
-[18:05:18] [ServerMain/ERROR]: Failed to load function can_we_kiss_forever:uninstall
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Invalid chat component: Not a JSON object: ["",{"text":"[NBS] ","color":"gold","bold":"true"},{"text":"Data pack ","color":"yellow"},{"text":"can_we_kiss_forever.zip","color":"gold","underlined":"true"},{"text":" uninstalled successfully. You may now remove it from your data pack folder.","color":"yellow"}] at position 277: ..."yellow"}]<--[HERE]
-	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Invalid chat component: Not a JSON object: ["",{"text":"[NBS] ","color":"gold","bold":"true"},{"text":"Data pack ","color":"yellow"},{"text":"can_we_kiss_forever.zip","color":"gold","underlined":"true"},{"text":" uninstalled successfully. You may now remove it from your data pack folder.","color":"yellow"}] at position 277: ..."yellow"}]<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-496]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[18:05:19] [ServerMain/ERROR]: Failed to load function we_wish_you_a_merry_christmas_2_2:uninstall
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Invalid chat component: Not a JSON object: ["",{"text":"[NBS] ","color":"gold","bold":"true"},{"text":"Data pack ","color":"yellow"},{"text":"we_wish_you_a_merry_christmas_2_2_no_loop.zip","color":"gold","underlined":"true"},{"text":" uninstalled successfully. You may now remove it from your data pack folder.","color":"yellow"}] at position 299: ..."yellow"}]<--[HERE]
-	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Invalid chat component: Not a JSON object: ["",{"text":"[NBS] ","color":"gold","bold":"true"},{"text":"Data pack ","color":"yellow"},{"text":"we_wish_you_a_merry_christmas_2_2_no_loop.zip","color":"gold","underlined":"true"},{"text":" uninstalled successfully. You may now remove it from your data pack folder.","color":"yellow"}] at position 299: ..."yellow"}]<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-496]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[18:05:24] [ServerMain/INFO]: Loaded 1271 advancements
-[18:05:28] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:05:28] [Server thread/INFO]: Loading properties
-[18:05:31] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
-[18:05:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:05:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:06:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:06:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[18:06:12] [Server thread/INFO]: Default game type: SURVIVAL
-[18:06:12] [Server thread/INFO]: Generating keypair
-[18:06:19] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:45754
-[18:06:19] [Server thread/INFO]: Using epoll channel type
-[18:06:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:06:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:06:40] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.10.0
-[18:06:40] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.0 is now loaded. Registering protocol transformers and injecting...
-[18:07:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[18:07:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[18:07:14] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[18:07:14] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[18:07:29] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.121
-[18:07:39] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:07:39] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.0+6678-55745ad
-[18:08:05] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@9c7764f]
-[18:08:05] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
-[18:08:05] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b96-7f38765)
-[18:08:19] [Server thread/INFO]: [floodgate] Took 14,130ms to boot Floodgate
-[18:08:19] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
-[18:08:20] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.0.4
-[18:08:22] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.3-SNAPSHOT
-[18:08:34] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[18:08:34] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[18:08:34] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[18:08:34] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.10.0
-[18:08:34] [Server thread/INFO]: [[38;5;11m⚡[0m] Loading server plugin LagFixer v1.3.25 (build 89)
-[18:08:34] [Server thread/INFO]: [Multiverse-SignPortals] Loading server plugin Multiverse-SignPortals v4.2.2
-[18:08:34] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v6.6
-[18:08:34] [Server thread/INFO]: [Multiverse-Portals] Loading server plugin Multiverse-Portals v4.2.3
-[18:08:34] [Server thread/INFO]: [AuraMobs] Loading server plugin AuraMobs v2.0.1
-[18:08:34] [Server thread/INFO]: [Multiverse-Inventories] Loading server plugin Multiverse-Inventories v4.2.6
-[18:08:34] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9
-[18:08:39] [Server thread/INFO]: [Graves] Integration: Hooked into WorldGuard 7.0.9+5934e49.
-[18:08:39] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
-[18:08:39] [Server thread/INFO]: [MyDog] Loading server plugin MyDog v0.2.2
-[18:08:39] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.4.6
-[18:08:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:08:39] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.121
-[18:08:54] [Server thread/INFO]:         __    
-[18:08:54] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.121
-[18:08:54] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:08:54] [Server thread/INFO]: 
-[18:08:54] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:09:09] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:09:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:09:32] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:09:38] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 58956ms)
-[18:09:38] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:09:39] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[18:09:41] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:09:42] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:09:42] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:09:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0+6678-55745ad
-[18:09:43] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[18:09:47] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[18:09:53] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
-[18:10:36] [Server thread/INFO]: [MyDog] Enabling MyDog v0.2.2
-[18:10:37] [Server thread/INFO]: [MyDog] Vault detected.
-[18:10:37] [Server thread/INFO]: [MyDog] Loaded 9 dogs.
-[18:10:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:10:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:10:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:10:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:10:38] [Server thread/INFO]: Preparing level "world"
-[18:11:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:11:08] [Server console handler/ERROR]: Caught previously unhandled exception :
-java.io.IOError: java.io.IOException: Input/output error
-	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
-	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
-	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
-	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
-	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
-	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
-	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:102) ~[paper-1.20.4.jar:git-Paper-496]
-Caused by: java.io.IOException: Input/output error
-	at java.io.FileInputStream.read0(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:231) ~[?:?]
-	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73) ~[jline-terminal-3.21.0.jar:?]
-	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.21.0.jar:?]
-	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168) ~[jline-terminal-3.21.0.jar:?]
-	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57) ~[jline-terminal-3.21.0.jar:?]
-	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
-	... 9 more
-[18:11:09] [Thread-1/INFO]: Stopping main thread (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
+[00:02:42] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:06:44] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:10:46] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:14:48] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:18:50] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:22:52] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:26:53] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:30:55] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:34:57] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:38:59] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:43:01] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:47:03] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:51:05] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:55:07] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:59:01] [Server thread/INFO]: Stopping the server
+[00:59:01] [Server thread/INFO]: Stopping server
+[00:59:02] [Server thread/INFO]: [AuraMobs] Disabling AuraMobs v2.0.5
+[00:59:02] [Server thread/INFO]: [MyDog] Disabling MyDog v0.2.2
+[00:59:02] [Server thread/INFO]: [MyDog] Loaded 13 dogs.
+[00:59:02] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[00:59:02] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.7.6
+[00:59:02] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[00:59:02] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[00:59:02] [Server thread/INFO]: [Multiverse-SignPortals] Disabling Multiverse-SignPortals v4.2.2
+[00:59:02] [Server thread/INFO]: [Multiverse-SignPortals] - Disabled
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.3.25 (build 89)
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 3ms!
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 1ms!
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module EntityLimiter in 3ms.
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomVehicles in 3ms.
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomAi in 3ms.
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module InstantLeafDecay in 4ms.
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module LagMonitor in 4ms.
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module RedstoneLimiter in 3ms.
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module WorldCleaner in 3ms.
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 27ms!
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[00:59:02] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 4ms!
+[00:59:02] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.1
+[00:59:02] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
+[00:59:02] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[00:59:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[00:59:02] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.3-SNAPSHOT
+[00:59:02] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:59:02] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:59:02] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
+[00:59:02] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[00:59:02] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[00:59:02] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.4-beta-01+0452ca2
+[00:59:02] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[00:59:03] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[00:59:03] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.121
+[00:59:03] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:59:03] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:59:03] [WebSocketConnectReadThread-142/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:59:03] [Thread-16/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
+[00:59:03] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:59:03] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.1
+[00:59:03] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[00:59:03] [Server thread/INFO]: Saving players
+[00:59:03] [Server thread/INFO]: Saving worlds
+[00:59:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:59:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:59:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:59:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:59:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 13 entity chunks, 0 poi chunks in world 'world' in 0.16s
+[00:59:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:59:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:59:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:59:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:59:06] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 23 entity chunks, 0 poi chunks in world 'world_nether' in 0.18s
+[00:59:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:59:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:59:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:59:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:59:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.12s
+[00:59:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[flatroom]'/minecraft:flatroom
+[00:59:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'flatroom'
+[00:59:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'flatroom'
+[00:59:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'flatroom'
+[00:59:08] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 4 entity chunks, 0 poi chunks in world 'flatroom' in 0.11s
+[00:59:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:59:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (flatroom): All chunks are saved
+[00:59:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:59:08] [Server thread/INFO]: Saving usercache.json

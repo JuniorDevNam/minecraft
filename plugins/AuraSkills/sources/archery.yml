@@ -164,3 +164,9 @@ sources:
     xp: 0.7
   warden:
     xp: 10000.0
+  armadillo:
+    xp: 3.0
+  breeze:
+    xp: 15.0
+  bogged:
+    xp: 9.0

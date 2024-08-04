@@ -969,3 +969,7 @@ pages:
         material: YELLOW_WOOL
         buy: 29.4
         sell: 7.35
+      '14':
+        material: SHROOMLIGHT
+        buy: 30.0
+        sell: 15.0

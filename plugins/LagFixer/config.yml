@@ -40,6 +40,8 @@ modules:
       - WOLF
       - MOOSHROOM
       - IRON_GOLEM
+      - enderman
+      - ENDERMAN -true
       
       pathfinder:
         # keep mobchip pathfinders wrapper, only for 1.17+ servers (not tested)
@@ -174,8 +176,8 @@ modules:
     values:
       alerts: true
       ticks_limit: # limit of ticks per chunk every second
-        redstone: 1100
-        piston: 50 # sum of pushed blocks
+        redstone: 50000
+        piston: 100 # sum of pushed blocks
       break_block: # should lagfixer break blocks after detect
         redstone: false
         piston: false

@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1720276728616
+  lastteleport: 1722677444442
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1720282004678
-  login: 1720276337862
-money: '381644.2499999999952517'
+  logout: 1722678405143
+  login: 1722667887160
+money: '3375340.9599999999905277'
 last-account-name: Tuanxxx7
 logoutlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 4112.851977843204
-  y: 227.0
-  z: -738.8517354145715
-  yaw: -157.26953125
-  pitch: 22.815431594848633
+  x: 3880.3906557025566
+  y: 31.0
+  z: -759.7128858976838
+  yaw: 111.33056640625
+  pitch: 1.199997067451477
 nickname: Tuan
 lastlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 3885.3759093251374
-  y: 63.5625
-  z: -763.333760780451
-  yaw: 63.6953125
-  pitch: 16.337038040161133
+  x: 3892.072940894274
+  y: 26.0
+  z: -763.1738701832329
+  yaw: 160.37396240234375
+  pitch: 34.800018310546875
 homes:
   home:
     world: 6000fa1e-792c-48f6-9092-83aa876e0187

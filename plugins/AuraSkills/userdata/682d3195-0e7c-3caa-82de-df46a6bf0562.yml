@@ -2,53 +2,58 @@ uuid: 682d3195-0e7c-3caa-82de-df46a6bf0562
 skills:
   auraskills/farming:
     level: 8
-    xp: 2386.240000000009
+    xp: 2428.2400000000084
   auraskills/foraging:
     level: 6
-    xp: 383.9000000000152
+    xp: 684.2000000000232
   auraskills/mining:
-    level: 9
-    xp: 3015.3199999990607
+    level: 10
+    xp: 2105.3999999973234
   auraskills/fishing:
-    level: 11
-    xp: 9845.5
+    level: 14
+    xp: 11517.0
   auraskills/excavation:
-    level: 6
-    xp: 1063.560000000025
+    level: 7
+    xp: 1343.9100000000253
   auraskills/archery:
-    level: 8
-    xp: 1225.9360000000013
+    level: 9
+    xp: 1277.276000000006
   auraskills/defense:
-    level: 17
-    xp: 7085.710046487938
+    level: 19
+    xp: 10657.41090193423
   auraskills/fighting:
     level: 14
-    xp: 7828.497999999596
+    xp: 16519.517999999724
   auraskills/endurance:
-    level: 11
-    xp: 7097.618138000003
+    level: 12
+    xp: 11881.74775799999
   auraskills/agility:
-    level: 8
-    xp: 3976.5033241272013
+    level: 10
+    xp: 3901.3288185119654
   auraskills/alchemy:
     level: 2
     xp: 125.0
   auraskills/enchanting:
     level: 5
-    xp: 366.60000000000014
+    xp: 1224.6000000000001
   auraskills/sorcery:
     level: 6
-    xp: 234.83013191446662
+    xp: 2186.4217981502416
   auraskills/healing:
-    level: 11
-    xp: 1942.4000000000015
+    level: 12
+    xp: 806.4000000000015
   auraskills/forging:
-    level: 10
-    xp: 3687.2999999999993
-mana: 60.0
+    level: 11
+    xp: 8728.099999999993
+mana: 64.0
 locale: en
 action_bar:
   idle: true
+stat_modifiers:
+  '0':
+    name: AbilityModifier-EnchantedStrength
+    stat: auraskills/strength
+    value: 2.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -65,7 +70,7 @@ trait_modifiers:
   '3':
     name: fishing_luck_ability
     trait: auraskills/fishing_luck
-    value: 15.0
+    value: 20.0
   '4':
     name: farming_luck_ability
     trait: auraskills/farming_luck
@@ -75,6 +80,6 @@ ability_data:
     toggle_cooldown: 0
     enabled: true
   auraskills/xp_convert:
-    xp: 18.585640558319977
+    xp: 0.22327662471963095
   auraskills/first_strike:
-    counter: 213
+    counter: 272

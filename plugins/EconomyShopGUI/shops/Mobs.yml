@@ -74,3 +74,13 @@ pages:
         material: STRING
         buy: 7
         sell: 1.75
+  page2:
+    items:
+      '1':
+        material: OMINOUS_BOTTLE
+        buy: 100.0
+        sell: -1.0
+      '2':
+        material: VILLAGER_SPAWN_EGG
+        buy: 500.0
+        sell: -1.0
