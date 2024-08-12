@@ -2,7 +2,7 @@ bbcf508f-6b6e-463c-907f-bcd6d545a335:
   Owner: 962c3a59-6dc2-3f02-b5c7-fa2fdb690650
   ID: 2
   Name: ImmortalBlessing
-  NameChatColor: DARK_RED
+  NameChatColor: BLACK
   LastSeen:
     World: world
     X: 340.30000001192093
@@ -82,7 +82,7 @@ dd1d8e1e-bc96-41b9-877d-e8da16675d31:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 1
   Name: Alpha
-  NameChatColor: DARK_GRAY
+  NameChatColor: YELLOW
   LastSeen:
     World: world
     X: -6855.699999988079
@@ -98,7 +98,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 2
   Name: Beta
-  NameChatColor: LIGHT_PURPLE
+  NameChatColor: BLACK
   LastSeen:
     World: world
     X: -6854.601645547359
@@ -114,7 +114,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 3
   Name: Gamma
-  NameChatColor: DARK_BLUE
+  NameChatColor: RED
   LastSeen:
     World: world
     X: -6854.699999988079
@@ -130,7 +130,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 4
   Name: Delta
-  NameChatColor: DARK_RED
+  NameChatColor: LIGHT_PURPLE
   LastSeen:
     World: world
     X: -6849.942265838261
@@ -146,12 +146,12 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 5
   Name: Epsilon
-  NameChatColor: GRAY
+  NameChatColor: GREEN
   LastSeen:
     World: world
-    X: -6851.338625208413
-    Y: 79.1875
-    Z: 7071.163330135417
+    X: -6850.249537139191
+    Y: 78.0
+    Z: 7069.97344897737
   Level:
     Level: 1
     Experience: 0
@@ -162,7 +162,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 6
   Name: Zeta
-  NameChatColor: DARK_GRAY
+  NameChatColor: DARK_RED
   LastSeen:
     World: world
     X: -6850.651719815147
@@ -178,7 +178,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 7
   Name: Eta
-  NameChatColor: BLACK
+  NameChatColor: DARK_RED
   LastSeen:
     World: world
     X: -6849.916099274011
@@ -194,7 +194,7 @@ eaad5c7c-07e0-4671-ad87-99561eea4e70:
   Owner: 2d5d0be0-e48c-3b3a-b769-1b5636e432f6
   ID: 8
   Name: Theta
-  NameChatColor: BLACK
+  NameChatColor: DARK_PURPLE
   LastSeen:
     World: world
     X: -6849.300000011921
