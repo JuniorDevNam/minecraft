@@ -29,7 +29,7 @@ skills:
     xp: 13773.356015000083
   auraskills/agility:
     level: 17
-    xp: 2092.3004513740652
+    xp: 2105.1004513740654
   auraskills/alchemy:
     level: 4
     xp: 391.0
@@ -41,7 +41,7 @@ skills:
     xp: 4045.0417124182
   auraskills/healing:
     level: 15
-    xp: 878.7000000000007
+    xp: 1528.7000000000007
   auraskills/forging:
     level: 10
     xp: 6200.799999999997
@@ -67,10 +67,10 @@ trait_modifiers:
     trait: auraskills/farming_luck
     value: 20.0
 ability_data:
-  auraskills/xp_convert:
-    xp: 2.245767911394104
-  auraskills/first_strike:
-    counter: 647
   auraskills/charged_shot:
     toggle_cooldown: 0
     enabled: false
+  auraskills/first_strike:
+    counter: 647
+  auraskills/xp_convert:
+    xp: 10.54576791139407

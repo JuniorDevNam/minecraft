@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723692724764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723693190404
+  login: 1723691817395
+money: '0'
+last-account-name: mirbreade1
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 335.1721229140708
+  y: 65.0
+  z: 503.30557069135523
+  yaw: -22.62200927734375
+  pitch: 90.0
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: -160.45897308876707
+  y: 63.0
+  z: -44.437177886472135
+  yaw: 0.32955068349838257
+  pitch: -5.602350234985352

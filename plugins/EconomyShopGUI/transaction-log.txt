@@ -5917,3 +5917,6 @@
 [2024-08-12 22:52:29] - ~phan2 sold 182x Dirt(Blocks.page3.items.102), 3x Bone(Mobs.page1.items.4), 3x Beetroot Seeds(Farming.page1.items.5), 1x Iron Ingot(Ores.page1.items.16) for $148.50 with the sell gui.
 [2024-08-12 22:58:26] - ~phan2 sold 351x Dirt(Blocks.page3.items.102), 2x Bone(Mobs.page1.items.4), 8x Beetroot Seeds(Farming.page1.items.5), 2x Iron Ingot(Ores.page1.items.16) for $282.75 with the sell gui.
 [2024-08-12 22:59:07] - ~phan2 sold 5x Dirt(Blocks.page3.items.102), 2x Diamond(Ores.page1.items.9), 4x Andesite(Blocks.page1.items.15), 2x Cobblestone(Blocks.page2.items.54) for $424.81 with the sell gui.
+[2024-08-14 11:47:28] - Tuanxxx7 bought 1 x Lead(Miscellaneous.page1.items.16) for $17.33 with the buy screen.
+[2024-08-14 11:47:28] - Tuanxxx7 bought 1 x Lead(Miscellaneous.page1.items.16) for $17.33 with the buy screen.
+[2024-08-15 09:42:52] - Tuanxxx7 bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $69.62 with the buy screen.

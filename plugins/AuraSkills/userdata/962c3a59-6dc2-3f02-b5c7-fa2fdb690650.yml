@@ -2,10 +2,10 @@ uuid: 962c3a59-6dc2-3f02-b5c7-fa2fdb690650
 skills:
   auraskills/farming:
     level: 30
-    xp: 21275.359999999546
+    xp: 21277.759999999544
   auraskills/foraging:
     level: 30
-    xp: 70702.39999999104
+    xp: 70850.87999999091
   auraskills/mining:
     level: 30
     xp: 28138.079999991005
@@ -14,22 +14,22 @@ skills:
     xp: 49387.5
   auraskills/excavation:
     level: 30
-    xp: 20752.800000000127
+    xp: 21071.039999999837
   auraskills/archery:
     level: 45
-    xp: 98671.06000000273
+    xp: 98766.06000000273
   auraskills/defense:
     level: 30
-    xp: 4225.765238023998
+    xp: 8336.6604635489
   auraskills/fighting:
     level: 30
     xp: 36215.6639999981
   auraskills/endurance:
     level: 22
-    xp: 24496.609631999978
+    xp: 25187.199503999975
   auraskills/agility:
     level: 30
-    xp: 31122.768332576616
+    xp: 31136.768332576616
   auraskills/alchemy:
     level: 30
     xp: 240.0
@@ -38,17 +38,22 @@ skills:
     xp: 2550.8
   auraskills/sorcery:
     level: 32
-    xp: 11739.336193920099
+    xp: 12032.436193920097
   auraskills/healing:
     level: 33
-    xp: 41154.59999999998
+    xp: 48804.59999999998
   auraskills/forging:
     level: 17
     xp: 14711.4
-mana: 186.0
+mana: 226.0
 locale: vi
 action_bar:
   idle: true
+stat_modifiers:
+  '0':
+    name: AbilityModifier-WiseEffect
+    stat: auraskills/wisdom
+    value: 25.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -71,9 +76,9 @@ trait_modifiers:
     trait: auraskills/farming_luck
     value: 35.0
 ability_data:
-  auraskills/xp_convert:
-    xp: 19.072106545548905
   auraskills/charged_shot:
     enabled: true
   auraskills/first_strike:
     counter: 624
+  auraskills/xp_convert:
+    xp: 1.7772040704513958

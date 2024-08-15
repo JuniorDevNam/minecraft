@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723691406214
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723691581318
+  login: 1723691538372
+money: '0'
+logoutlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: 3891.21722284589
+  y: 63.0
+  z: -748.7533246641775
+  yaw: 54.48587417602539
+  pitch: 41.85000228881836
+last-account-name: ducth
+lastlocation:
+  world: 6000fa1e-792c-48f6-9092-83aa876e0187
+  world-name: world
+  x: -198.8548402564812
+  y: 66.0
+  z: -22.8005985805186
+  yaw: 40.50030517578125
+  pitch: 60.89984130859375
