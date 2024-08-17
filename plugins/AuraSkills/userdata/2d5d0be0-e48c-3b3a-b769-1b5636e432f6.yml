@@ -8,7 +8,7 @@ skills:
     xp: 8216.47000000997
   auraskills/mining:
     level: 16
-    xp: 8464.83000000022
+    xp: 8467.170000000222
   auraskills/fishing:
     level: 1
     xp: 0.0
@@ -26,10 +26,10 @@ skills:
     xp: 60601.57199999532
   auraskills/endurance:
     level: 28
-    xp: 13773.356015000083
+    xp: 13897.403341000083
   auraskills/agility:
     level: 17
-    xp: 2105.1004513740654
+    xp: 2313.1004513740654
   auraskills/alchemy:
     level: 4
     xp: 391.0
@@ -41,7 +41,7 @@ skills:
     xp: 4045.0417124182
   auraskills/healing:
     level: 15
-    xp: 1528.7000000000007
+    xp: 4128.700000000001
   auraskills/forging:
     level: 10
     xp: 6200.799999999997
@@ -70,7 +70,7 @@ ability_data:
   auraskills/charged_shot:
     toggle_cooldown: 0
     enabled: false
+  auraskills/xp_convert:
+    xp: 18.933093911394046
   auraskills/first_strike:
     counter: 647
-  auraskills/xp_convert:
-    xp: 10.54576791139407

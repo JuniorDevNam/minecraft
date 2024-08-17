@@ -49,11 +49,6 @@ mana: 226.0
 locale: vi
 action_bar:
   idle: true
-stat_modifiers:
-  '0':
-    name: AbilityModifier-WiseEffect
-    stat: auraskills/wisdom
-    value: 25.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -76,9 +71,9 @@ trait_modifiers:
     trait: auraskills/farming_luck
     value: 35.0
 ability_data:
-  auraskills/charged_shot:
-    enabled: true
   auraskills/first_strike:
     counter: 624
+  auraskills/charged_shot:
+    enabled: true
   auraskills/xp_convert:
     xp: 1.7772040704513958

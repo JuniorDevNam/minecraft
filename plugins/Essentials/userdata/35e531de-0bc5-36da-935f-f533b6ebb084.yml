@@ -4,30 +4,30 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 127.0.0.1
-afk: false
+afk: true
 socialspy: false
 npc: false
 powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1723692724764
+  lastteleport: 1723713409976
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1723693190404
-  login: 1723691817395
+  login: 1723713376542
 money: '0'
 last-account-name: mirbreade1
 lastlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 335.1721229140708
-  y: 65.0
-  z: 503.30557069135523
-  yaw: -22.62200927734375
-  pitch: 90.0
+  x: -160.30012292954262
+  y: 63.0
+  z: -42.09217052524297
+  yaw: -23.39801025390625
+  pitch: 14.500185012817383
 logoutlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
