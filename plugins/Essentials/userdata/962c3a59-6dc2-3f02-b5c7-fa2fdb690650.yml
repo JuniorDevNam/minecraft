@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1723828588148
+  lastteleport: 1724122188581
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1723918494884
-  login: 1723917981806
+  logout: 1724122721517
+  login: 1724122174687
 money: '98975316209.2699999999014791'
 logoutlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 2516.0931493078265
-  y: 90.0
-  z: 305.22451482795486
-  yaw: 89.1963119506836
-  pitch: 17.049591064453125
+  x: 341.9128472062421
+  y: 10.0
+  z: 536.648708851165
+  yaw: -121.02146911621094
+  pitch: 7.500018119812012
 last-account-name: Nam1234231
 nickname: lamperlore
 lastlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 329.46632336173167
-  y: 12.241382668093278
-  z: 534.4433313009686
-  yaw: 148.6785888671875
-  pitch: 22.80002212524414
+  x: 2516.0931493078265
+  y: 90.0
+  z: 305.22451482795486
+  yaw: 75.2463150024414
+  pitch: 26.79958152770996
 homes:
   home:
     world: 6000fa1e-792c-48f6-9092-83aa876e0187
