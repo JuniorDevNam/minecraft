@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.0.0.1
+ip-address: 127.57.234.25
 afk: false
 socialspy: false
 npc: false
@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1723739086140
+  lastteleport: 1725689613638
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1723827482010
-  login: 1723825880014
+  logout: 1725689685023
+  login: 1725685603765
 money: '4217555.8100000000018346'
 last-account-name: gladios1234
 lastlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 2770.095596924962
-  y: 75.0
-  z: 3101.0145918800813
-  yaw: -179.5767822265625
-  pitch: 40.33168029785156
+  x: 336.72730705190025
+  y: 10.0
+  z: 532.8979327189163
+  yaw: 106.48446655273438
+  pitch: 13.693954467773438
 nickname: phan2
 logoutlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: -6820.699999988079
-  y: 62.875
-  z: 7034.744894341671
-  yaw: -75.28887939453125
-  pitch: 46.406246185302734
+  x: 3129.2361442896563
+  y: 70.0
+  z: 3331.046447525861
+  yaw: 128.95626831054688
+  pitch: 32.5629997253418
 homes:
   home:
     world: 6000fa1e-792c-48f6-9092-83aa876e0187

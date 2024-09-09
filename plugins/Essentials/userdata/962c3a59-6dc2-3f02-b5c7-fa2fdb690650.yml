@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.0.0.1
+ip-address: 127.65.215.163
 afk: false
 socialspy: false
 npc: false
@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1723828588148
+  lastteleport: 1725855463539
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1723918494884
-  login: 1723917981806
-money: '98975316209.2699999999014791'
+  logout: 1725855552069
+  login: 1725854730229
+money: '98975173701.3599999999014391'
 logoutlocation:
-  world: 6000fa1e-792c-48f6-9092-83aa876e0187
-  world-name: world
-  x: 2516.0931493078265
-  y: 90.0
-  z: 305.22451482795486
-  yaw: 89.1963119506836
-  pitch: 17.049591064453125
+  world: 6070b197-d770-4d72-a000-8f9c12ec0f94
+  world-name: world_the_end
+  x: 17.87113031933598
+  y: 59.0
+  z: -10.784012319302082
+  yaw: 112.80003356933594
+  pitch: -6.599989414215088
 last-account-name: Nam1234231
 nickname: lamperlore
 lastlocation:
   world: 6000fa1e-792c-48f6-9092-83aa876e0187
   world-name: world
-  x: 329.46632336173167
-  y: 12.241382668093278
-  z: 534.4433313009686
-  yaw: 148.6785888671875
-  pitch: 22.80002212524414
+  x: 320.4940243410002
+  y: 10.0
+  z: 540.1170939355734
+  yaw: 83.87542724609375
+  pitch: 5.249925136566162
 homes:
   home:
     world: 6000fa1e-792c-48f6-9092-83aa876e0187

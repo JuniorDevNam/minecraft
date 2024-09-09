@@ -279,15 +279,18 @@ custom-bedrock-player-profile:
 
 #---------------------------------------------Inventory's------------------------------------------------
 
-# Options to customize the main menu, see the sections folder which contains all section items
+# Whether the previous GUI menu should open when pressing the escape button
+# Example: Pressing escape to close the inventory when inside the buy/sell screen, will open the shop page of the shop section from this item
+escape-back: false
+# This won't work when the back button is disabled
+# Note: This option requires a server restart for changes
 
-# Set the size of the main shop inventory in rows
-# Possible values: 2 | 3 | 4 | 5 | 6
-# Note that the navigation bar also is 1 row(unless disabled)
-
-# The fill item for inside the main menu which will fill empty spots
 main-menu:
+  # The size of the main shop inventory in rows
+  # Possible values: 2 | 3 | 4 | 5 | 6
+  # Note that the navigation bar also is 1 row(unless disabled)
   gui-rows: 6
+  # The fill item for inside the main menu which will fill empty spots
   fill-item:
     material: GRAY_STAINED_GLASS_PANE
     name: ' '

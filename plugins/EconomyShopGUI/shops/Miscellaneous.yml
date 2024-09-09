@@ -179,7 +179,7 @@ pages:
       '41':
         material: WATER_BUCKET
         buy: 69.57
-        sell: 17.4
+        sell: 69.57
       '42':
         material: WRITABLE_BOOK
         buy: 48.95
@@ -271,8 +271,8 @@ pages:
         sell: -1.0
       '3':
         material: BUCKET
-        buy: 50.0
-        sell: 16.0
+        buy: 69.57
+        sell: 69.57
       '4':
         material: SCULK_CATALYST
         buy: 500.0
