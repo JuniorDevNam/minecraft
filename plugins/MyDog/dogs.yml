@@ -18,7 +18,7 @@ bbcf508f-6b6e-463c-907f-bcd6d545a335:
   Owner: 682d3195-0e7c-3caa-82de-df46a6bf0562
   ID: 1
   Name: Julia
-  NameChatColor: WHITE
+  NameChatColor: BLACK
   LastSeen:
     World: world
     X: 3051.8580481921545
@@ -50,7 +50,7 @@ dd1d8e1e-bc96-41b9-877d-e8da16675d31:
   Owner: 682d3195-0e7c-3caa-82de-df46a6bf0562
   ID: 2
   Name: Benny
-  NameChatColor: WHITE
+  NameChatColor: BLACK
   LastSeen:
     World: world
     X: 3054.4571241945305
@@ -66,7 +66,7 @@ dd1d8e1e-bc96-41b9-877d-e8da16675d31:
   Owner: 682d3195-0e7c-3caa-82de-df46a6bf0562
   ID: 3
   Name: Butch
-  NameChatColor: DARK_BLUE
+  NameChatColor: GOLD
   LastSeen:
     World: world
     X: 3054.7602881015264
